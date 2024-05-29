@@ -305,27 +305,27 @@
       "type": "other"
     },
     "--layer-important": {
-      "value": 2147483647,
+      "value": "2147483647",
       "type": "other"
     },
     "--layer-5": {
-      "value": 5,
+      "value": "5",
       "type": "other"
     },
     "--layer-4": {
-      "value": 4,
+      "value": "4",
       "type": "other"
     },
     "--layer-3": {
-      "value": 3,
+      "value": "3",
       "type": "other"
     },
     "--layer-2": {
-      "value": 2,
+      "value": "2",
       "type": "other"
     },
     "--layer-1": {
-      "value": 1,
+      "value": "1",
       "type": "other"
     },
     "--ease-bounce-5": {
