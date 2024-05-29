@@ -1,1 +1,28 @@
-{}
+{
+  "color": {
+    "base": {
+      "white": {
+        "value": "#fff",
+        "type": "color"
+      },
+      "black": {
+        "value": "#000",
+        "type": "color"
+      }
+    },
+    "gray": {
+      "1000": {
+        "value": "#262D33",
+        "type": "color"
+      },
+      "1100": {
+        "value": "#1D2126",
+        "type": "color"
+      },
+      "1200": {
+        "value": "#0C0E13",
+        "type": "color"
+      }
+    }
+  }
+}

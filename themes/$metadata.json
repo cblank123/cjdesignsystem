@@ -1,6 +1,9 @@
 {
   "tokenSetOrder": [
     "open-props",
-    "brand/default"
+    "brand/default",
+    "semantic/default",
+    "mapped/light",
+    "mapped/dark"
   ]
 }
