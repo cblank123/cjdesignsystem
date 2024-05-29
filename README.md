@@ -1,1 +1,1 @@
-# cjdesignsystem
+# tokensstudio-sync
