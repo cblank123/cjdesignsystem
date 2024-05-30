@@ -810,5 +810,35 @@
         "type": "color"
       }
     }
+  },
+  "radius": {
+    "none": {
+      "value": "0",
+      "type": "borderRadius"
+    },
+    "xs": {
+      "value": "2",
+      "type": "borderRadius"
+    },
+    "sm": {
+      "value": "4",
+      "type": "borderRadius"
+    },
+    "base": {
+      "value": "8",
+      "type": "borderRadius"
+    },
+    "lg": {
+      "value": "12",
+      "type": "borderRadius"
+    },
+    "xl": {
+      "value": "24",
+      "type": "borderRadius"
+    },
+    "rounded": {
+      "value": "800",
+      "type": "borderRadius"
+    }
   }
 }
