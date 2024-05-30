@@ -1,1 +1,24 @@
-{}
+{
+  "color": {
+    "font": {
+      "dark": {
+        "value": "{color.gray.1100}",
+        "type": "color"
+      },
+      "light": {
+        "value": "{color.gray.800}",
+        "type": "color"
+      },
+      "inactive": {
+        "value": "{color.gray.600}",
+        "type": "color"
+      }
+    },
+    "interactive": {
+      "default": {
+        "value": "{color.interactive.800}",
+        "type": "color"
+      }
+    }
+  }
+}
