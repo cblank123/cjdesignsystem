@@ -2518,5 +2518,11 @@
       "value": "80",
       "type": "lineHeights"
     }
+  },
+  "radiuscomponent": {
+    "none": {
+      "value": "0",
+      "type": "borderRadius"
+    }
   }
 }
