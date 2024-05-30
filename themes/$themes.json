@@ -374,13 +374,13 @@
       "size.13xl": "78abfbf2cad883bf681ab41603bf198ad2d8e119",
       "size.14xl": "8cca24098cba7de8ae4ecb9a5eac45beac7b2cc5",
       "size.none": "3909879b94bf270b44aa0df31ff810b602f9e6aa",
-      "screen.xs": "8442e19bce16dc1e00be4b1295f1ca3e31ca1350",
-      "screen.sm": "d7a0515b0d0ee08ed29abb385d80e865c2d6b012",
-      "screen.md": "c1dc2111ee9bc1d09cdec226f4e3c981834b2c35",
-      "screen.lg": "e7b61255e87cfe5ef2d1449a66c2b68a9200f013",
-      "screen.xl": "8ebf3eedc5eda675198b08bc534e9b69ba1fd4e0",
-      "screen.2xl": "35f4a5762269137190343a49b8c10d8a55aa5f15",
-      "radiuscomponent.none": "a01f373d8a982821f5ef042dbc6bba7e9ea0af8d"
+      "radiuscomponent.none": "a01f373d8a982821f5ef042dbc6bba7e9ea0af8d",
+      "media.sm": "d7a0515b0d0ee08ed29abb385d80e865c2d6b012",
+      "media.md": "c1dc2111ee9bc1d09cdec226f4e3c981834b2c35",
+      "media.lg": "e7b61255e87cfe5ef2d1449a66c2b68a9200f013",
+      "media.xl": "8ebf3eedc5eda675198b08bc534e9b69ba1fd4e0",
+      "media.2xl": "35f4a5762269137190343a49b8c10d8a55aa5f15",
+      "media.xxs": "8442e19bce16dc1e00be4b1295f1ca3e31ca1350"
     }
   },
   {
