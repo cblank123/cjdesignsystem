@@ -379,7 +379,8 @@
       "screen.md": "c1dc2111ee9bc1d09cdec226f4e3c981834b2c35",
       "screen.lg": "e7b61255e87cfe5ef2d1449a66c2b68a9200f013",
       "screen.xl": "8ebf3eedc5eda675198b08bc534e9b69ba1fd4e0",
-      "screen.2xl": "35f4a5762269137190343a49b8c10d8a55aa5f15"
+      "screen.2xl": "35f4a5762269137190343a49b8c10d8a55aa5f15",
+      "radiuscomponent.none": "a01f373d8a982821f5ef042dbc6bba7e9ea0af8d"
     }
   },
   {
@@ -489,7 +490,12 @@
     "group": "mapped",
     "$figmaCollectionId": "VariableCollectionId:2:3537",
     "$figmaModeId": "2:2",
-    "$figmaVariableReferences": {}
+    "$figmaVariableReferences": {
+      "color.font.dark": "565b08f272ee3635184141db00137e8db70b0b04",
+      "color.font.light": "fd6716fce9902ef324b0179272358963c1f52677",
+      "color.font.inactive": "85f78352d5396c3edf987db5fd0211c946783d6f",
+      "color.interactive.default": "afe5456dcb510fffe2f87b24bea5c69b8c3b58be"
+    }
   },
   {
     "id": "57129fc03e8b030b23b010252477aeeb706cc9c3",
