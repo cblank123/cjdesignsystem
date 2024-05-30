@@ -2155,6 +2155,10 @@
           }
         }
       }
+    },
+    "primary": {
+      "value": "Source Sans Pro",
+      "type": "fontFamilies"
     }
   },
   "spacing": {
@@ -2353,6 +2357,24 @@
     "2xl": {
       "value": "1400",
       "type": "sizing"
+    }
+  },
+  "paragraph": {
+    "sm": {
+      "value": "14",
+      "type": "paragraphSpacing"
+    },
+    "md": {
+      "value": "16",
+      "type": "paragraphSpacing"
+    },
+    "lg": {
+      "value": "20",
+      "type": "paragraphSpacing"
+    },
+    "xl": {
+      "value": "24",
+      "type": "paragraphSpacing"
     }
   }
 }
