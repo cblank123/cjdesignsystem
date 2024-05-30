@@ -113,11 +113,11 @@
       "heading.underline.4xl.semibold": "S:fd020a21a292c6ad7d978ecdff66d028cd4ee43b,",
       "heading.underline.4xl.bold": "S:0f6319671c684dbc360f3d4ca9724c056faaa375,",
       "heading.underline.4xl.black": "S:1885abbf86562db570f687071025647e0e58beaf,",
-      "heading.default.9xl.light": "S:6d5b37a73aff387820707461fc2ad25725b9bc9e,",
-      "heading.default.9xl.regular": "S:f91b97a8768a0f300d0beed11e5d87c83ff1e39f,",
-      "heading.default.9xl.semibold": "S:712c2acef78a03966f87b1da0d60cbe1979e5920,",
-      "heading.default.9xl.bold": "S:7abba8f337fda3af660ee34af2a7e7cb43a749c5,",
-      "heading.default.9xl.black": "S:2ccc645b156a25fe1a9948c5aed82e49114315c3,"
+      "heading.default.8xl.light": "S:6d5b37a73aff387820707461fc2ad25725b9bc9e,",
+      "heading.default.8xl.regular": "S:f91b97a8768a0f300d0beed11e5d87c83ff1e39f,",
+      "heading.default.8xl.semibold": "S:712c2acef78a03966f87b1da0d60cbe1979e5920,",
+      "heading.default.8xl.bold": "S:7abba8f337fda3af660ee34af2a7e7cb43a749c5,",
+      "heading.default.8xl.black": "S:2ccc645b156a25fe1a9948c5aed82e49114315c3,"
     },
     "selectedTokenSets": {
       "brand/default": "enabled"
