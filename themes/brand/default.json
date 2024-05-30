@@ -2376,5 +2376,71 @@
       "value": "24",
       "type": "paragraphSpacing"
     }
+  },
+  "font-size": {
+    "xs": {
+      "value": "12",
+      "type": "fontSizes"
+    },
+    "sm": {
+      "value": "14",
+      "type": "fontSizes"
+    },
+    "base": {
+      "value": "16",
+      "type": "fontSizes"
+    },
+    "lg": {
+      "value": "18",
+      "type": "fontSizes"
+    },
+    "xl": {
+      "value": "20",
+      "type": "fontSizes"
+    },
+    "2xl": {
+      "value": "24",
+      "type": "fontSizes"
+    },
+    "3xl": {
+      "value": "28",
+      "type": "fontSizes"
+    },
+    "4xl": {
+      "value": "32",
+      "type": "fontSizes"
+    },
+    "5xl": {
+      "value": "40",
+      "type": "fontSizes"
+    },
+    "6xl": {
+      "value": "48",
+      "type": "fontSizes"
+    },
+    "7xl": {
+      "value": "56",
+      "type": "fontSizes"
+    },
+    "8xl": {
+      "value": "64",
+      "type": "fontSizes"
+    },
+    "9xl": {
+      "value": "72",
+      "type": "fontSizes"
+    },
+    "10xl": {
+      "value": "80",
+      "type": "fontSizes"
+    },
+    "11xl": {
+      "value": "88",
+      "type": "fontSizes"
+    },
+    "12xl": {
+      "value": "96",
+      "type": "fontSizes"
+    }
   }
 }
