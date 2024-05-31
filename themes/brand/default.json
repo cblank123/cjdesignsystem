@@ -3200,5 +3200,18 @@
       "value": "0",
       "type": "borderRadius"
     }
+  },
+  "shadow": {
+    "shadow-1": {
+      "value": {
+        "x": "0px",
+        "y": "1px",
+        "blur": "2px",
+        "spread": "-1px",
+        "color": "#000000",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    }
   }
 }

@@ -203,6 +203,28 @@
         "value": "{color.base.white}",
         "type": "color"
       }
+    },
+    "shadow-color": {
+      "value": "{color.neutral.400}",
+      "type": "color"
+    },
+    "brand": {
+      "blue-primary": {
+        "value": "{color.blue.900}",
+        "type": "color"
+      },
+      "blue-light": {
+        "value": "{color.sky.900}",
+        "type": "color"
+      },
+      "red-primary": {
+        "value": "{color.red.800}",
+        "type": "color"
+      },
+      "red-light": {
+        "value": "{color.red.700}",
+        "type": "color"
+      }
     }
   }
 }
