@@ -323,7 +323,6 @@
       "radius.none": "655e144f7eebc21da1c2f615255927c9c540853a",
       "radius.xs": "4455086c47821380dafc9a222d3c4ccc49299098",
       "radius.sm": "afba3cdcf28703676ba550875e96683bad1805d5",
-      "radius.base": "bfd17a657499b2d94c8b5a88cf9c603cb04cba79",
       "radius.lg": "d64a1c88bd3a68d06bd5e59c3a780fb3d649ac30",
       "radius.xl": "f2ebf3ab552b2e3300c57813c15560d2ee8a3e6c",
       "radius.rounded": "08f6138bff78544e3c5be1b86936ee79559b808b",
@@ -376,7 +375,13 @@
       "media.lg": "d78590c31fc69ac7b1f19df8ef2fa1fe989f799c",
       "media.xl": "e3237bdcd19c8b622d5199580b802febb0df2128",
       "media.2xl": "91b12c881daa4a1900ff34d013eb7a1ae8650bd2",
-      "radiuscomponent.none": "a01f373d8a982821f5ef042dbc6bba7e9ea0af8d"
+      "radiuscomponent.none": "a01f373d8a982821f5ef042dbc6bba7e9ea0af8d",
+      "border.size.none": "15c585f4d4e70b9b7226f9b846e7407de5ebb552",
+      "radius.md": "bfd17a657499b2d94c8b5a88cf9c603cb04cba79",
+      "border.size.xl": "354aed906e4eaf44681ce700973ef0386f863c04",
+      "border.size.lg": "341c893e4c3534e034f91fae266f63757b80ec88",
+      "border.size.md": "1d14be6a26e55582c6c76aa6f16250fd55dc8ec1",
+      "border.size.sm": "440929b4207d4183ed162b48acf248a5256127af"
     }
   },
   {

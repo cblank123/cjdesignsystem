@@ -824,7 +824,7 @@
       "value": "4",
       "type": "borderRadius"
     },
-    "base": {
+    "md": {
       "value": "8",
       "type": "borderRadius"
     },
@@ -3220,19 +3220,19 @@
         "value": "0px",
         "type": "borderWidth"
       },
-      "xs": {
+      "sm": {
         "value": "1px",
         "type": "borderWidth"
       },
-      "sm": {
+      "md": {
         "value": "2px",
         "type": "borderWidth"
       },
-      "md": {
+      "lg": {
         "value": "4px",
         "type": "borderWidth"
       },
-      "lg": {
+      "xl": {
         "value": "8px",
         "type": "borderWidth"
       }
