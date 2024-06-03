@@ -204,9 +204,11 @@
         "type": "color"
       }
     },
-    "shadow-color": {
-      "value": "{color.neutral.400}",
-      "type": "color"
+    "shadow": {
+      "default": {
+        "value": "{color.neutral.400}",
+        "type": "color"
+      }
     },
     "brand": {
       "blue-primary": {
