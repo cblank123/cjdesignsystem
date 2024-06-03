@@ -828,11 +828,11 @@
       "color.divider.dark": "905d137a15f5781b5b1b42a2f931394387bc2181",
       "color.background.one": "ad9ab04f62eed12fea1d701ce72dbbff46fb0aff",
       "color.background.two": "f09fa40558022d6ea4a48625dfa119ed02e50f7f",
+      "color.shadow.default": "a8575db98c676a944295b8d44dabc48c89e2f66d",
       "color.brand.blue-primary": "45b4bef345010b09562c76bdaf82c9d883075be8",
       "color.brand.blue-light": "2574867455636dbae191e02ceaf7d510bffe1f23",
       "color.brand.red-primary": "da396bb80b53fbddf04d35de7a71da70b0f8e3fd",
-      "color.brand.red-light": "6605b352fcac377f4383b6f8f39850cb3e4acd81",
-      "color.shadow.default": "a8575db98c676a944295b8d44dabc48c89e2f66d"
+      "color.brand.red-light": "6605b352fcac377f4383b6f8f39850cb3e4acd81"
     }
   },
   {
