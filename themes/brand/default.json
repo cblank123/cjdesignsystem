@@ -1503,58 +1503,6 @@
   },
   "heading": {
     "default": {
-      "xl": {
-        "light": {
-          "value": {
-            "fontFamily": "{font-family.heading}",
-            "fontWeight": "{font-weight.light}",
-            "fontSize": "{font-size.xl}",
-            "lineHeight": "{line-height.3xl}",
-            "paragraphSpacing": "{paragraph.2xl}"
-          },
-          "type": "typography"
-        },
-        "regular": {
-          "value": {
-            "fontFamily": "{font-family.heading}",
-            "fontWeight": "{font-weight.regular}",
-            "fontSize": "{font-size.xl}",
-            "lineHeight": "{line-height.3xl}",
-            "paragraphSpacing": "{paragraph.2xl}"
-          },
-          "type": "typography"
-        },
-        "semibold": {
-          "value": {
-            "fontFamily": "{font-family.heading}",
-            "fontWeight": "{font-weight.semibold}",
-            "fontSize": "{font-size.xl}",
-            "lineHeight": "{line-height.3xl}",
-            "paragraphSpacing": "{paragraph.2xl}"
-          },
-          "type": "typography"
-        },
-        "bold": {
-          "value": {
-            "fontFamily": "{font-family.heading}",
-            "fontWeight": "{font-weight.bold}",
-            "fontSize": "{font-size.xl}",
-            "lineHeight": "{line-height.3xl}",
-            "paragraphSpacing": "{paragraph.2xl}"
-          },
-          "type": "typography"
-        },
-        "black": {
-          "value": {
-            "fontFamily": "{font-family.heading}",
-            "fontWeight": "{font-weight.black}",
-            "fontSize": "{font-size.xl}",
-            "lineHeight": "{line-height.3xl}",
-            "paragraphSpacing": "{paragraph.2xl}"
-          },
-          "type": "typography"
-        }
-      },
       "2xl": {
         "light": {
           "value": {
@@ -2025,63 +1973,6 @@
       }
     },
     "underline": {
-      "xl": {
-        "light": {
-          "value": {
-            "fontFamily": "{font-family.heading}",
-            "fontWeight": "{font-weight.light}",
-            "fontSize": "{font-size.xl}",
-            "lineHeight": "{line-height.3xl}",
-            "paragraphSpacing": "{paragraph.2xl}",
-            "textDecoration": "{decoration.underline}"
-          },
-          "type": "typography"
-        },
-        "regular": {
-          "value": {
-            "fontFamily": "{font-family.heading}",
-            "fontWeight": "{font-weight.regular}",
-            "fontSize": "{font-size.xl}",
-            "lineHeight": "{line-height.3xl}",
-            "paragraphSpacing": "{paragraph.2xl}",
-            "textDecoration": "{decoration.underline}"
-          },
-          "type": "typography"
-        },
-        "semibold": {
-          "value": {
-            "fontFamily": "{font-family.heading}",
-            "fontWeight": "{font-weight.semibold}",
-            "fontSize": "{font-size.xl}",
-            "lineHeight": "{line-height.3xl}",
-            "paragraphSpacing": "{paragraph.2xl}",
-            "textDecoration": "{decoration.underline}"
-          },
-          "type": "typography"
-        },
-        "bold": {
-          "value": {
-            "fontFamily": "{font-family.heading}",
-            "fontWeight": "{font-weight.bold}",
-            "fontSize": "{font-size.xl}",
-            "lineHeight": "{line-height.3xl}",
-            "paragraphSpacing": "{paragraph.2xl}",
-            "textDecoration": "{decoration.underline}"
-          },
-          "type": "typography"
-        },
-        "black": {
-          "value": {
-            "fontFamily": "{font-family.heading}",
-            "fontWeight": "{font-weight.black}",
-            "fontSize": "{font-size.xl}",
-            "lineHeight": "{line-height.3xl}",
-            "paragraphSpacing": "{paragraph.2xl}",
-            "textDecoration": "{decoration.underline}"
-          },
-          "type": "typography"
-        }
-      },
       "2xl": {
         "light": {
           "value": {
@@ -2962,14 +2853,6 @@
     },
     "10xl": {
       "value": "80",
-      "type": "lineHeights"
-    },
-    "11xl": {
-      "value": "96",
-      "type": "lineHeights"
-    },
-    "12xl": {
-      "value": "112",
       "type": "lineHeights"
     }
   },
