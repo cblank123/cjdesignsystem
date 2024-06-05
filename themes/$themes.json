@@ -678,8 +678,7 @@
     "name": "default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/default": "enabled",
-      "global/default": "disabled"
+      "semantic/default": "enabled"
     },
     "group": "semantic",
     "$figmaCollectionId": "VariableCollectionId:6:4075",
@@ -776,8 +775,7 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mapped/light": "enabled",
-      "global/default": "disabled"
+      "mapped/light": "enabled"
     },
     "group": "mapped",
     "$figmaCollectionId": "VariableCollectionId:2:3537",
@@ -841,8 +839,7 @@
     "name": "dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mapped/dark": "enabled",
-      "global/default": "disabled"
+      "mapped/dark": "enabled"
     },
     "group": "mapped",
     "$figmaCollectionId": "VariableCollectionId:2:3537",
