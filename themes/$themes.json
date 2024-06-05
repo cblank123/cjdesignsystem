@@ -409,7 +409,7 @@
       "color.pink.1200": "S:e2fed40b7a2879bcc416d844227f7586c4ef011a,"
     },
     "selectedTokenSets": {
-      "brand/default": "enabled"
+      "global/default": "enabled"
     },
     "group": "brand",
     "$figmaCollectionId": "VariableCollectionId:2:3528",
@@ -678,7 +678,8 @@
     "name": "default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/default": "enabled"
+      "semantic/default": "enabled",
+      "global/default": "disabled"
     },
     "group": "semantic",
     "$figmaCollectionId": "VariableCollectionId:6:4075",
@@ -775,7 +776,8 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mapped/light": "enabled"
+      "mapped/light": "enabled",
+      "global/default": "disabled"
     },
     "group": "mapped",
     "$figmaCollectionId": "VariableCollectionId:2:3537",
@@ -839,7 +841,8 @@
     "name": "dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mapped/dark": "enabled"
+      "mapped/dark": "enabled",
+      "global/default": "disabled"
     },
     "group": "mapped",
     "$figmaCollectionId": "VariableCollectionId:2:3537",
