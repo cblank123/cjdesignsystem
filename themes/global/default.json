@@ -2854,6 +2854,10 @@
     "10xl": {
       "value": "80",
       "type": "lineHeights"
+    },
+    "lg": {
+      "value": "18",
+      "type": "lineHeights"
     }
   },
   "radiuscomponent": {
