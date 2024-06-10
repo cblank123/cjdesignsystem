@@ -2946,5 +2946,39 @@
       },
       "type": "boxShadow"
     }
+  },
+  "icon": {
+    "sm": {
+      "value": "14",
+      "type": "sizing"
+    },
+    "xs": {
+      "value": "12",
+      "type": "sizing"
+    },
+    "md": {
+      "value": "16",
+      "type": "sizing"
+    },
+    "lg": {
+      "value": "20",
+      "type": "sizing"
+    },
+    "xl": {
+      "value": "xl",
+      "type": "sizing"
+    },
+    "2xl": {
+      "value": "24",
+      "type": "sizing"
+    },
+    "3xl": {
+      "value": "32",
+      "type": "sizing"
+    },
+    "4xl": {
+      "value": "40",
+      "type": "sizing"
+    }
   }
 }
