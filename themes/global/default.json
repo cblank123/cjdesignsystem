@@ -2961,11 +2961,11 @@
       "type": "sizing"
     },
     "lg": {
-      "value": "20",
+      "value": "18",
       "type": "sizing"
     },
     "xl": {
-      "value": "xl",
+      "value": "20",
       "type": "sizing"
     },
     "2xl": {
