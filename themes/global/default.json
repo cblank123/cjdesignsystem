@@ -2973,11 +2973,11 @@
       "type": "sizing"
     },
     "3xl": {
-      "value": "32",
+      "value": "28",
       "type": "sizing"
     },
     "4xl": {
-      "value": "40",
+      "value": "32",
       "type": "sizing"
     }
   }
