@@ -791,7 +791,6 @@
     "$figmaVariableReferences": {
       "color.font.dark": "565b08f272ee3635184141db00137e8db70b0b04",
       "color.font.light": "fd6716fce9902ef324b0179272358963c1f52677",
-      "color.font.white": "de1a67be435b6c68499b3b957aaa273c06d35f37",
       "color.font.inactive": "85f78352d5396c3edf987db5fd0211c946783d6f",
       "color.font.placeholder": "7b3e74fe528765ac6b7efd5e5014a60fb2c7b848",
       "color.success.text-neutral": "20bfc6fb3276ea36727ae7cec75ad98e87a710eb",
@@ -817,7 +816,6 @@
       "color.divider.light": "974c48e06103be03c1aceb82bcfb1ec6c23dc69f",
       "color.divider.dark": "905d137a15f5781b5b1b42a2f931394387bc2181",
       "color.shadow.default": "f845937b4c8dd585647a7df1ee60418d9256a08b",
-      "color.brand.blue-primary": "45b4bef345010b09562c76bdaf82c9d883075be8",
       "color.brand.blue-light": "2574867455636dbae191e02ceaf7d510bffe1f23",
       "color.brand.red-primary": "da396bb80b53fbddf04d35de7a71da70b0f8e3fd",
       "color.brand.red-light": "6605b352fcac377f4383b6f8f39850cb3e4acd81",
@@ -835,7 +833,9 @@
       "color.input.border.border-selected": "2d33d2971051344eaf150ea23698bed3c789dae2",
       "color.input.border.border": "8eee6cfaeb07c608ca947ad485278148a2033417",
       "color.card.border.border-dark": "3216eef2cb9ff145ac63c2a7f134553de8fc7b82",
-      "color.card.border.border-light": "921acc04e105d0a0d03172414469dc37f9be3687"
+      "color.card.border.border-light": "921acc04e105d0a0d03172414469dc37f9be3687",
+      "color.brand.blue-main": "45b4bef345010b09562c76bdaf82c9d883075be8",
+      "color.font.inverse": "de1a67be435b6c68499b3b957aaa273c06d35f37"
     }
   },
   {

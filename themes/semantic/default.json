@@ -349,6 +349,24 @@
         "value": "{color.violet.1200}",
         "type": "color"
       }
+    },
+    "brand": {
+      "blue-main": {
+        "value": "{color.blue.900}",
+        "type": "color"
+      },
+      "blue-light": {
+        "value": "{color.sky.900}",
+        "type": "color"
+      },
+      "red-main": {
+        "value": "{color.red.800}",
+        "type": "color"
+      },
+      "red-light": {
+        "value": "{color.red.600}",
+        "type": "color"
+      }
     }
   }
 }
