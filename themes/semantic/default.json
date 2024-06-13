@@ -1,6 +1,6 @@
 {
   "color": {
-    "interactive": {
+    "primary": {
       "100": {
         "value": "{color.sky.100}",
         "type": "color"
