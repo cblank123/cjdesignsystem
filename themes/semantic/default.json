@@ -18,35 +18,35 @@
         "type": "color"
       },
       "500": {
-        "value": "{color.sky.500}",
+        "value": "{color.blue.500}",
         "type": "color"
       },
       "600": {
-        "value": "{color.sky.600}",
+        "value": "{color.blue.600}",
         "type": "color"
       },
       "700": {
-        "value": "{color.sky.700}",
+        "value": "{color.blue.700}",
         "type": "color"
       },
       "800": {
-        "value": "{color.sky.800}",
+        "value": "{color.blue.800}",
         "type": "color"
       },
       "900": {
-        "value": "{color.sky.900}",
+        "value": "{color.blue.900}",
         "type": "color"
       },
       "1000": {
-        "value": "{color.sky.1000}",
+        "value": "{color.blue.1000}",
         "type": "color"
       },
       "1100": {
-        "value": "{color.sky.1100}",
+        "value": "{color.blue.1100}",
         "type": "color"
       },
       "1200": {
-        "value": "{color.sky.1200}",
+        "value": "{color.blue.1200}",
         "type": "color"
       }
     },
