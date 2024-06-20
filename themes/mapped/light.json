@@ -153,15 +153,15 @@
       },
       "danger": {
         "bold": {
-          "value": "{color.danger.800}",
+          "value": "{color.danger.700}",
           "type": "color"
         },
         "bold-hover": {
-          "value": "{color.danger.900}",
+          "value": "{color.danger.800}",
           "type": "color"
         },
         "bold-active": {
-          "value": "{color.danger.1000}",
+          "value": "{color.danger.900}",
           "type": "color"
         },
         "subtle": {
