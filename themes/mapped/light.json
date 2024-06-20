@@ -310,7 +310,7 @@
     },
     "brand": {
       "blue-primary": {
-        "value": "{color.blue.900}",
+        "value": "{color.blue.1000}",
         "type": "color"
       },
       "blue-light": {
