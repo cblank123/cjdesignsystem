@@ -2,19 +2,19 @@
   "color": {
     "primary": {
       "100": {
-        "value": "{color.sky.100}",
+        "value": "{color.blue.100}",
         "type": "color"
       },
       "200": {
-        "value": "{color.sky.200}",
+        "value": "{color.blue.200}",
         "type": "color"
       },
       "300": {
-        "value": "{color.sky.300}",
+        "value": "{color.blue.300}",
         "type": "color"
       },
       "400": {
-        "value": "{color.sky.400}",
+        "value": "{color.blue.400}",
         "type": "color"
       },
       "500": {
