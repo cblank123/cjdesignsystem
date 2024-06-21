@@ -794,6 +794,7 @@
     "$figmaModeId": "2:2",
     "$figmaVariableReferences": {
       "color.font.dark": "565b08f272ee3635184141db00137e8db70b0b04",
+      "color.font.medium": "262c36896c5c69bbd4afb2c1962d658c2aaca316",
       "color.font.light": "fd6716fce9902ef324b0179272358963c1f52677",
       "color.font.inverse": "de1a67be435b6c68499b3b957aaa273c06d35f37",
       "color.font.inactive": "85f78352d5396c3edf987db5fd0211c946783d6f",
@@ -809,6 +810,7 @@
       "color.background.primary.bold-active": "320c40b4eaf71052a502dbed8895d0fc9d024b30",
       "color.background.primary.subtle": "8816b1acc09dd6c19c27a82b07d424623807e58e",
       "color.background.primary.subtle-hover": "1dcc5e002f79a3d0dee7ccaee1bb69253f912c5c",
+      "color.background.primary.subtle-active": "ad9ab04f62eed12fea1d701ce72dbbff46fb0aff",
       "color.background.success.bold": "9b80be05bda5e8f8c114bcd2bd1238abeb913115",
       "color.background.success.bold-hover": "189f0b7213fc48ad431d04e805e7423d2bf31aa7",
       "color.background.success.bold-active": "42067df982e116f61033b4d9f639679a958326b7",
@@ -891,8 +893,7 @@
       "color.link.visited-hover": "28ebfb95e14eace59cf616ebf308182377be7dd3",
       "color.link.neutral": "dc9b298ce1a21bd19a25a56bb464a218fb47d1f5",
       "color.link.neutral-hover": "24e320e03865f4f4f006780b15aa39e19a22ecf6",
-      "color.link.inverse": "8393a8e744042a6c82007896f3a466758e570f0f",
-      "color.background.primary.subtle-active": "ad9ab04f62eed12fea1d701ce72dbbff46fb0aff"
+      "color.link.inverse": "8393a8e744042a6c82007896f3a466758e570f0f"
     }
   },
   {

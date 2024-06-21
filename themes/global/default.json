@@ -1044,8 +1044,8 @@
           "value": {
             "fontFamily": "{font-family.body}",
             "fontWeight": "{font-weight.black}",
-            "fontSize": "{font-size.2xl}",
-            "lineHeight": "{line-height.3xl}",
+            "fontSize": "{font-size.lg}",
+            "lineHeight": "{line-height.2xl}",
             "paragraphSpacing": "{paragraph.xl}"
           },
           "type": "typography"
@@ -1148,8 +1148,8 @@
           "value": {
             "fontFamily": "{font-family.body}",
             "fontWeight": "{font-weight.black}",
-            "fontSize": "{font-size.2xl}",
-            "lineHeight": "{line-height.4xl}",
+            "fontSize": "{font-size.lg}",
+            "lineHeight": "{line-height.2xl}",
             "paragraphSpacing": "{paragraph.2xl}"
           },
           "type": "typography"
