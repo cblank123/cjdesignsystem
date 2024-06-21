@@ -2898,55 +2898,96 @@
     "xs": {
       "value": {
         "x": "0",
-        "y": "{size.xxs}",
-        "blur": "{size.xxs}",
+        "y": "1",
+        "blur": "2",
         "spread": "0",
-        "color": "{color.shadow.default}",
+        "color": "rgba(0,0,0,0.05)",
         "type": "dropShadow"
       },
       "type": "boxShadow"
     },
     "sm": {
-      "value": {
-        "x": "0",
-        "y": "{size.xs}",
-        "blur": "{size.xs}",
-        "spread": "0",
-        "color": "{color.shadow.default}",
-        "type": "dropShadow"
-      },
+      "value": [
+        {
+          "x": "0",
+          "y": "1",
+          "blur": "3",
+          "spread": "0",
+          "color": "rgba(0,0,0,0.1)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "1",
+          "blur": "2",
+          "spread": "-1",
+          "color": "rgba(0,0,0,0.1)",
+          "type": "dropShadow"
+        }
+      ],
       "type": "boxShadow"
     },
     "md": {
-      "value": {
-        "x": "0",
-        "y": "{size.xs}",
-        "blur": "{size.xs}",
-        "spread": "0",
-        "color": "{color.shadow.default}",
-        "type": "dropShadow"
-      },
+      "value": [
+        {
+          "x": "0",
+          "y": "4",
+          "blur": "6",
+          "spread": "-1",
+          "color": "rgba(0,0,0,0.1)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "2",
+          "blur": "4",
+          "spread": "-2",
+          "color": "rgba(0,0,0,0.06)",
+          "type": "dropShadow"
+        }
+      ],
       "type": "boxShadow"
     },
     "lg": {
-      "value": {
-        "x": "0",
-        "y": "{size.sm}",
-        "blur": "{size.sm}",
-        "spread": "0",
-        "color": "{color.shadow.default}",
-        "type": "dropShadow"
-      },
+      "value": [
+        {
+          "x": "0",
+          "y": "10",
+          "blur": "15",
+          "spread": "-3",
+          "color": "rgba(0,0,0,0.1)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "4",
+          "blur": "6",
+          "spread": "-4",
+          "color": "rgba(0,0,0,0.05)",
+          "type": "dropShadow"
+        }
+      ],
       "type": "boxShadow"
     },
     "xl": {
       "value": {
         "x": "0",
-        "y": "{size.base}",
-        "blur": "{size.lg}",
-        "spread": "0",
-        "color": "{color.shadow.default}",
+        "y": "20",
+        "blur": "25",
+        "spread": "-5",
+        "color": "rgba(0,0,0,0.1)",
         "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "inner": {
+      "value": {
+        "x": "0",
+        "y": "2",
+        "blur": "4",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.05)",
+        "type": "innerShadow"
       },
       "type": "boxShadow"
     }
