@@ -5,6 +5,10 @@
         "value": "{color.neutral.1100}",
         "type": "color"
       },
+      "medium": {
+        "value": "{color.neutral.900}",
+        "type": "color"
+      },
       "light": {
         "value": "{color.neutral.800}",
         "type": "color"
