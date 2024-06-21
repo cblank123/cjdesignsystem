@@ -105,15 +105,15 @@
       },
       "neutral": {
         "bold": {
-          "value": "{color.neutral.900}",
+          "value": "{color.neutral.1100}",
           "type": "color"
         },
         "bold-hover": {
-          "value": "{color.neutral.1000}",
+          "value": "{color.neutral.1200}",
           "type": "color"
         },
         "bold-active": {
-          "value": "{color.neutral.1100}",
+          "value": "{color.neutral.1200}",
           "type": "color"
         },
         "subtle": {
