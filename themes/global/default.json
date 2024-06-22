@@ -3025,5 +3025,17 @@
       "value": "32",
       "type": "sizing"
     }
+  },
+  "tag": {
+    "news-category": {
+      "value": {
+        "fontFamily": "Overpass Mono",
+        "fontWeight": "SemiBold",
+        "fontSize": "{font-size.sm}",
+        "lineHeight": "{line-height.lg}",
+        "paragraphSpacing": "{paragraph.sm}"
+      },
+      "type": "typography"
+    }
   }
 }
