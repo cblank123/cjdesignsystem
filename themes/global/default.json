@@ -3016,7 +3016,7 @@
         "y": "2",
         "blur": "4",
         "spread": "0",
-        "color": "rgba(0,0,0,0.05)",
+        "color": "rgba(0,0,0,0.06)",
         "type": "innerShadow"
       },
       "type": "boxShadow"
