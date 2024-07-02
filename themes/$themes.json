@@ -638,7 +638,6 @@
       "spacing.12xl": "4d75ea12d795c135ae2bc5642cc5815802798995",
       "spacing.13xl": "792d3d61b45949c46502d412806f262450fc5ffa",
       "spacing.14xl": "0355ecb67a7e37b2bc8a7b9561c2459e98160556",
-      "size.xxs": "faa97c415a1493a5c4a00f7074186a576f11b5c4",
       "size.xs": "95932ecb8535659fd07748f113832b2456dcb704",
       "size.sm": "09ac9343b51104739eee0937c7e7f58a3fc8b3ea",
       "size.base": "a23f5fa47f5d5886d87be47eeeef6866c94a4a5d",
@@ -679,7 +678,8 @@
       "icon.xl": "4a261749963ebe11900b0b144e0d9b7cb541f0be",
       "icon.2xl": "a8560fa9b6609472b41f937ebc9f4ed14f947f31",
       "icon.3xl": "d2d10de79296b1e4208c1df99ff358bf8f35073a",
-      "icon.4xl": "f03282538c2cbf195c04a2145043ac58b1a4b1af"
+      "icon.4xl": "f03282538c2cbf195c04a2145043ac58b1a4b1af",
+      "size.25": "faa97c415a1493a5c4a00f7074186a576f11b5c4"
     }
   },
   {

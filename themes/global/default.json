@@ -2515,6 +2515,10 @@
       "value": "12",
       "type": "spacing"
     },
+    "md2": {
+      "value": "14",
+      "type": "spacing"
+    },
     "lg": {
       "value": "16",
       "type": "spacing"
@@ -2577,7 +2581,7 @@
     }
   },
   "size": {
-    "xxs": {
+    "25": {
       "value": "2",
       "type": "sizing"
     },
