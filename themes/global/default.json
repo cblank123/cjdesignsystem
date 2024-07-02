@@ -2487,95 +2487,99 @@
     }
   },
   "spacing": {
-    "none": {
+    "0": {
       "value": "0",
       "type": "spacing"
     },
-    "xxs": {
+    "25": {
       "value": "2",
       "type": "spacing"
     },
-    "xs": {
+    "50": {
       "value": "4",
       "type": "spacing"
     },
-    "sm": {
+    "75": {
       "value": "6",
       "type": "spacing"
     },
-    "base": {
+    "100": {
       "value": "8",
       "type": "spacing"
     },
-    "base-2": {
+    "125": {
       "value": "10",
       "type": "spacing"
     },
-    "md": {
+    "150": {
       "value": "12",
       "type": "spacing"
     },
-    "md2": {
+    "175": {
       "value": "14",
       "type": "spacing"
     },
-    "lg": {
+    "200": {
       "value": "16",
       "type": "spacing"
     },
-    "xl": {
+    "250": {
       "value": "20",
       "type": "spacing"
     },
-    "2xl": {
+    "300": {
       "value": "24",
       "type": "spacing"
     },
-    "3xl": {
+    "350": {
       "value": "28",
       "type": "spacing"
     },
-    "4xl": {
+    "400": {
       "value": "32",
       "type": "spacing"
     },
-    "5xl": {
+    "450": {
+      "value": "36",
+      "type": "spacing"
+    },
+    "500": {
       "value": "40",
       "type": "spacing"
     },
-    "6xl": {
+    "600": {
       "value": "48",
       "type": "spacing"
     },
-    "7xl": {
+    "700": {
       "value": "56",
       "type": "spacing"
     },
-    "8xl": {
+    "800": {
       "value": "64",
       "type": "spacing"
     },
-    "9xl": {
+    "900": {
       "value": "72",
       "type": "spacing"
     },
-    "10xl": {
+    "1000": {
       "value": "80",
       "type": "spacing"
     },
-    "11xl": {
-      "value": "88",
-      "type": "spacing"
-    },
-    "12xl": {
+    "1100": {
       "value": "96",
       "type": "spacing"
     },
-    "13xl": {
+    "1200": {
+      "value": "112",
+      "type": "spacing"
+    },
+    "1300": {
       "value": "128",
       "type": "spacing"
     },
-    "14xl": {
+    "1400": {
       "value": "160",
       "type": "spacing"
     }
