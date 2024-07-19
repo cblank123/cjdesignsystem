@@ -1103,6 +1103,58 @@
           "type": "typography"
         }
       },
+      "175": {
+        "light": {
+          "value": {
+            "fontFamily": "{font-family.body}",
+            "fontWeight": "{font-weight.light}",
+            "fontSize": "{font-size.175}",
+            "lineHeight": "{line-height.250}",
+            "paragraphSpacing": "{paragraph.200}"
+          },
+          "type": "typography"
+        },
+        "regular": {
+          "value": {
+            "fontFamily": "{font-family.body}",
+            "fontWeight": "{font-weight.regular}",
+            "fontSize": "{font-size.175}",
+            "lineHeight": "{line-height.250}",
+            "paragraphSpacing": "{paragraph.200}"
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "fontFamily": "{font-family.body}",
+            "fontWeight": "{font-weight.semibold}",
+            "fontSize": "{font-size.175}",
+            "lineHeight": "{line-height.250}",
+            "paragraphSpacing": "{paragraph.200}"
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "{font-family.body}",
+            "fontWeight": "{font-weight.bold}",
+            "fontSize": "{font-size.175}",
+            "lineHeight": "{line-height.250}",
+            "paragraphSpacing": "{paragraph.200}"
+          },
+          "type": "typography"
+        },
+        "black": {
+          "value": {
+            "fontFamily": "{font-family.body}",
+            "fontWeight": "{font-weight.black}",
+            "fontSize": "{font-size.175}",
+            "lineHeight": "{line-height.250}",
+            "paragraphSpacing": "{paragraph.200}"
+          },
+          "type": "typography"
+        }
+      },
       "200": {
         "light": {
           "value": {
@@ -1446,6 +1498,63 @@
             "fontFamily": "{font-family.body}",
             "fontWeight": "{font-weight.black}",
             "fontSize": "{font-size.150}",
+            "lineHeight": "{line-height.250}",
+            "paragraphSpacing": "{paragraph.200}",
+            "textDecoration": "{decoration.underline}"
+          },
+          "type": "typography"
+        }
+      },
+      "175": {
+        "light": {
+          "value": {
+            "fontFamily": "{font-family.body}",
+            "fontWeight": "{font-weight.light}",
+            "fontSize": "{font-size.175}",
+            "lineHeight": "{line-height.250}",
+            "paragraphSpacing": "{paragraph.200}",
+            "textDecoration": "{decoration.underline}"
+          },
+          "type": "typography"
+        },
+        "regular": {
+          "value": {
+            "fontFamily": "{font-family.body}",
+            "fontWeight": "{font-weight.regular}",
+            "fontSize": "{font-size.175}",
+            "lineHeight": "{line-height.250}",
+            "paragraphSpacing": "{paragraph.200}",
+            "textDecoration": "{decoration.underline}"
+          },
+          "type": "typography"
+        },
+        "semibold": {
+          "value": {
+            "fontFamily": "{font-family.body}",
+            "fontWeight": "{font-weight.semibold}",
+            "fontSize": "{font-size.175}",
+            "lineHeight": "{line-height.250}",
+            "paragraphSpacing": "{paragraph.200}",
+            "textDecoration": "{decoration.underline}"
+          },
+          "type": "typography"
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "{font-family.body}",
+            "fontWeight": "{font-weight.bold}",
+            "fontSize": "{font-size.175}",
+            "lineHeight": "{line-height.250}",
+            "paragraphSpacing": "{paragraph.200}",
+            "textDecoration": "{decoration.underline}"
+          },
+          "type": "typography"
+        },
+        "black": {
+          "value": {
+            "fontFamily": "{font-family.body}",
+            "fontWeight": "{font-weight.black}",
+            "fontSize": "{font-size.175}",
             "lineHeight": "{line-height.250}",
             "paragraphSpacing": "{paragraph.200}",
             "textDecoration": "{decoration.underline}"
@@ -2786,6 +2895,10 @@
     },
     "150": {
       "value": "20",
+      "type": "fontSizes"
+    },
+    "175": {
+      "value": "22",
       "type": "fontSizes"
     },
     "200": {
