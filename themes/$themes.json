@@ -299,13 +299,13 @@
       "media.sm": "6064cc90b813aadd356ce5659969669d1e0c24fd",
       "media.md": "a4284d6dcbecf55bd2a18a620660cab39fb99c53",
       "media.lg": "2938c600c027fed27cfa37eeb82860bb19d8d1fa",
-      "media.xl": "909eaa7e00d3d3e85d71cf5def44bc2bd9162b29",
-      "media.2xl": "e6348cf5ea62f0f7635db14de19909e06756a726",
       "width.0": "7eb1bb997fa12d1e4063c830379f000ce8dc99b2",
       "width.100": "4f2275bc997bc1b4079374518a1163f65675d089",
       "width.125": "c76aae068b8958604f51856ac1b087e67f914132",
       "width.150": "32eff940ecaf5703a7fc0a044a97c3856cedcc9b",
-      "width.200": "aa844cadf5e3e99a15d107566beabe19047467ce"
+      "width.200": "aa844cadf5e3e99a15d107566beabe19047467ce",
+      "media.3xl": "e6348cf5ea62f0f7635db14de19909e06756a726",
+      "media.2xl": "909eaa7e00d3d3e85d71cf5def44bc2bd9162b29"
     }
   },
   {
