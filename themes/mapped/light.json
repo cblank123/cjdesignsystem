@@ -297,7 +297,7 @@
       }
     },
     "divider": {
-      "light-c": {
+      "light": {
         "value": "{color.neutral.200}",
         "type": "color"
       },
