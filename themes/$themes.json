@@ -489,6 +489,7 @@
       "color.input.background.inactive": "7abb312a8350ed7c47d36f7f1a63a36108e5677e",
       "color.divider.light": "974c48e06103be03c1aceb82bcfb1ec6c23dc69f",
       "color.divider.medium": "905d137a15f5781b5b1b42a2f931394387bc2181",
+      "color.divider.dark": "905d137a15f5781b5b1b42a2f931394387bc2181",
       "color.shadow.default": "f845937b4c8dd585647a7df1ee60418d9256a08b",
       "color.brand.blue-primary": "45b4bef345010b09562c76bdaf82c9d883075be8",
       "color.brand.blue-light": "2574867455636dbae191e02ceaf7d510bffe1f23",
@@ -536,7 +537,8 @@
     "$figmaModeId": "2:3",
     "$figmaVariableReferences": {
       "color.divider.light": "974c48e06103be03c1aceb82bcfb1ec6c23dc69f",
-      "color.divider.medium": "905d137a15f5781b5b1b42a2f931394387bc2181"
+      "color.divider.medium": "905d137a15f5781b5b1b42a2f931394387bc2181",
+      "color.divider.dark": "905d137a15f5781b5b1b42a2f931394387bc2181"
     }
   }
 ]
