@@ -1,6 +1,5 @@
 {
   "tokenSetOrder": [
-    "open-props",
     "global/default",
     "semantic/default",
     "mapped/light",
