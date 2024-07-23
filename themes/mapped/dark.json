@@ -1,1 +1,12 @@
-{}
+{
+  "divider": {
+    "light": {
+      "value": "{color.neutral.900}",
+      "type": "color"
+    },
+    "dark": {
+      "value": "{color.neutral.1000}",
+      "type": "color"
+    }
+  }
+}

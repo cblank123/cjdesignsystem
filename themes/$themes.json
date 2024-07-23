@@ -487,7 +487,6 @@
       "color.input.border.border-selected": "2d33d2971051344eaf150ea23698bed3c789dae2",
       "color.input.background.primary": "fe6e11adc65eb6639ae69b3e1f65bfaab4affc1c",
       "color.input.background.inactive": "7abb312a8350ed7c47d36f7f1a63a36108e5677e",
-      "color.divider.light": "974c48e06103be03c1aceb82bcfb1ec6c23dc69f",
       "color.divider.dark": "905d137a15f5781b5b1b42a2f931394387bc2181",
       "color.shadow.default": "f845937b4c8dd585647a7df1ee60418d9256a08b",
       "color.brand.blue-primary": "45b4bef345010b09562c76bdaf82c9d883075be8",
@@ -521,7 +520,8 @@
       "color.link.visited-hover": "28ebfb95e14eace59cf616ebf308182377be7dd3",
       "color.link.neutral": "dc9b298ce1a21bd19a25a56bb464a218fb47d1f5",
       "color.link.neutral-hover": "24e320e03865f4f4f006780b15aa39e19a22ecf6",
-      "color.link.inverse": "8393a8e744042a6c82007896f3a466758e570f0f"
+      "color.link.inverse": "8393a8e744042a6c82007896f3a466758e570f0f",
+      "color.divider.medium": "974c48e06103be03c1aceb82bcfb1ec6c23dc69f"
     }
   },
   {
