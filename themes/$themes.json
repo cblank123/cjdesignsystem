@@ -804,6 +804,12 @@
       "color.font.danger": "0d9a257f53b3b4d9562b17b27f10254bafa3d7a0",
       "color.font.information": "4482c9dcf7b268b29d504fad877b65f9d6c4ba0f",
       "color.font.highlight": "795a4fc12dec9663d809d30dcbd98f98b75e603f",
+      "color.background.primary.bold-100": "afe5456dcb510fffe2f87b24bea5c69b8c3b58be",
+      "color.background.primary.bold-200": "e7982059e4354841ded16fb570fa8bcf3803abbf",
+      "color.background.primary.bold-300": "320c40b4eaf71052a502dbed8895d0fc9d024b30",
+      "color.background.primary.subtle-100": "8816b1acc09dd6c19c27a82b07d424623807e58e",
+      "color.background.primary.subtle-200": "1dcc5e002f79a3d0dee7ccaee1bb69253f912c5c",
+      "color.background.primary.subtle-300": "ad9ab04f62eed12fea1d701ce72dbbff46fb0aff",
       "color.background.success.bold": "9b80be05bda5e8f8c114bcd2bd1238abeb913115",
       "color.background.success.bold-hover": "189f0b7213fc48ad431d04e805e7423d2bf31aa7",
       "color.background.success.bold-active": "42067df982e116f61033b4d9f639679a958326b7",
@@ -968,13 +974,7 @@
       "news-tag.font.oconus.bold": "767b58e9117188538adf1de3b037da2cac187f11",
       "news-tag.font.oconus.inverse": "809904e23e55b4aedf2faa92a74440d10bf1cbb2",
       "news-tag.font.workplace.bold": "0ad6f587dfb7a165807b3de34ebb9bcee8fb0608",
-      "news-tag.font.workplace.inverse": "559da7232eb9b5e3f3d6db99d5915df380a2a5ec",
-      "color.background.primary.bold-200": "e7982059e4354841ded16fb570fa8bcf3803abbf",
-      "color.background.primary.bold-100": "afe5456dcb510fffe2f87b24bea5c69b8c3b58be",
-      "color.background.primary.bold-300": "320c40b4eaf71052a502dbed8895d0fc9d024b30",
-      "color.background.primary.subtle-100": "8816b1acc09dd6c19c27a82b07d424623807e58e",
-      "color.background.primary.subtle-200": "1dcc5e002f79a3d0dee7ccaee1bb69253f912c5c",
-      "color.background.primary.subtle-300": "ad9ab04f62eed12fea1d701ce72dbbff46fb0aff"
+      "news-tag.font.workplace.inverse": "559da7232eb9b5e3f3d6db99d5915df380a2a5ec"
     }
   },
   {
