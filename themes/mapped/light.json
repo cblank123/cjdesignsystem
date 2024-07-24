@@ -500,5 +500,139 @@
         "type": "color"
       }
     }
+  },
+  "news-tag": {
+    "background": {
+      "defense-contractors": {
+        "value": "{color.amber.400}",
+        "type": "color"
+      },
+      "government-contractors": {
+        "value": "{color.orange.400}",
+        "type": "color"
+      },
+      "career-advice": {
+        "value": "{color.red.400}",
+        "type": "color"
+      },
+      "cyber-security": {
+        "value": "{color.magenta.400}",
+        "type": "color"
+      },
+      "polygraph": {
+        "value": "{color.purple.400}",
+        "type": "color"
+      },
+      "defense-contracts": {
+        "value": "{color.violet.400}",
+        "type": "color"
+      },
+      "cleared-recruiting": {
+        "value": "{color.indigo.400}",
+        "type": "color"
+      },
+      "intelligence": {
+        "value": "{color.sky.400}",
+        "type": "color"
+      },
+      "military": {
+        "value": "{color.blue.400}",
+        "type": "color"
+      },
+      "oconus": {
+        "value": "{color.cyan.400}",
+        "type": "color"
+      },
+      "work-place": {
+        "value": "{color.emerald.400}",
+        "type": "color"
+      },
+      "government": {
+        "value": "{color.teal.400}",
+        "type": "color"
+      },
+      "security-clearance": {
+        "value": "{color.green.400}",
+        "type": "color"
+      },
+      "military-transtion": {
+        "value": "{color.lime.400}",
+        "type": "color"
+      },
+      "uncategorized": {
+        "value": "{color.gray.400}",
+        "type": "color"
+      },
+      "sponsored": {
+        "value": "{color.gray.600}",
+        "type": "color"
+      }
+    },
+    "border-copy": {
+      "defense-contractors": {
+        "value": "{color.amber.400}",
+        "type": "color"
+      },
+      "government-contractors": {
+        "value": "{color.orange.400}",
+        "type": "color"
+      },
+      "career-advice": {
+        "value": "{color.red.400}",
+        "type": "color"
+      },
+      "cyber-security": {
+        "value": "{color.magenta.400}",
+        "type": "color"
+      },
+      "polygraph": {
+        "value": "{color.purple.400}",
+        "type": "color"
+      },
+      "defense-contracts": {
+        "value": "{color.violet.400}",
+        "type": "color"
+      },
+      "cleared-recruiting": {
+        "value": "{color.indigo.400}",
+        "type": "color"
+      },
+      "intelligence": {
+        "value": "{color.sky.400}",
+        "type": "color"
+      },
+      "military": {
+        "value": "{color.blue.400}",
+        "type": "color"
+      },
+      "oconus": {
+        "value": "{color.cyan.400}",
+        "type": "color"
+      },
+      "work-place": {
+        "value": "{color.emerald.400}",
+        "type": "color"
+      },
+      "government": {
+        "value": "{color.teal.400}",
+        "type": "color"
+      },
+      "security-clearance": {
+        "value": "{color.green.400}",
+        "type": "color"
+      },
+      "military-transtion": {
+        "value": "{color.lime.400}",
+        "type": "color"
+      },
+      "uncategorized": {
+        "value": "{color.gray.400}",
+        "type": "color"
+      },
+      "sponsored": {
+        "value": "{color.gray.600}",
+        "type": "color"
+      }
+    }
   }
 }
