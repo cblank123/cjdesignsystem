@@ -850,6 +850,16 @@
           "value": "{color.base.white}",
           "type": "color"
         }
+      },
+      "oconus": {
+        "bold": {
+          "value": "{color.purple.800}",
+          "type": "color"
+        },
+        "inverse": {
+          "value": "{color.base.white}",
+          "type": "color"
+        }
       }
     }
   }
