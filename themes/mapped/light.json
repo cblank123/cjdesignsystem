@@ -571,7 +571,7 @@
     "background": {
       "defense-contractors": {
         "bold": {
-          "value": "{color.amber.800}",
+          "value": "{color.amber.900}",
           "type": "color"
         },
         "sublte": {
