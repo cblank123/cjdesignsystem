@@ -970,7 +970,11 @@
       "news-tag.font.government-contractors.bold": "6d76748831586960754d715c4c1dd033c6168fa5",
       "news-tag.font.government-contractors.inverse": "a2c9603bd9c926effa1b8ec2b123c6f4781ee691",
       "news-tag.font.polygraph.bold": "b7b594298a71df9a27048c7d3dfdc86499c57374",
-      "news-tag.font.polygraph.inverse": "c0ff8dbd0317fadade70246a1e74a0a2866961e3"
+      "news-tag.font.polygraph.inverse": "c0ff8dbd0317fadade70246a1e74a0a2866961e3",
+      "news-tag.font.oconus.bold": "767b58e9117188538adf1de3b037da2cac187f11",
+      "news-tag.font.oconus.inverse": "809904e23e55b4aedf2faa92a74440d10bf1cbb2",
+      "news-tag.font.workplace.bold": "0ad6f587dfb7a165807b3de34ebb9bcee8fb0608",
+      "news-tag.font.workplace.inverse": "559da7232eb9b5e3f3d6db99d5915df380a2a5ec"
     }
   },
   {

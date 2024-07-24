@@ -860,6 +860,16 @@
           "value": "{color.base.white}",
           "type": "color"
         }
+      },
+      "workplace": {
+        "bold": {
+          "value": "{color.emerald.800}",
+          "type": "color"
+        },
+        "inverse": {
+          "value": "{color.base.white}",
+          "type": "color"
+        }
       }
     }
   }
