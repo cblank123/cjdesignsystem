@@ -745,130 +745,182 @@
     "font": {
       "defense-contracts": {
         "100": {
-          "value": "{color.violet.600}",
+          "value": "{color.base.white}",
           "type": "color"
         },
         "200": {
+          "value": "{color.violet.600}",
+          "type": "color"
+        },
+        "300": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "military-transition": {
         "100": {
-          "value": "{color.lime.800}",
+          "value": "{color.base.white}",
           "type": "color"
         },
         "200": {
+          "value": "{color.lime.800}",
+          "type": "color"
+        },
+        "300": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "security-clearance": {
         "100": {
-          "value": "{color.green.700}",
+          "value": "{color.base.white}",
           "type": "color"
         },
         "200": {
+          "value": "{color.green.700}",
+          "type": "color"
+        },
+        "300": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "government": {
         "100": {
-          "value": "{color.teal.700}",
+          "value": "{color.base.white}",
           "type": "color"
         },
         "200": {
+          "value": "{color.teal.700}",
+          "type": "color"
+        },
+        "300": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "defense-contractors": {
         "100": {
-          "value": "{color.amber.700}",
+          "value": "{color.base.white}",
           "type": "color"
         },
         "200": {
+          "value": "{color.amber.700}",
+          "type": "color"
+        },
+        "300": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "military": {
         "100": {
-          "value": "{color.blue.700}",
+          "value": "{color.base.white}",
           "type": "color"
         },
         "200": {
+          "value": "{color.blue.700}",
+          "type": "color"
+        },
+        "300": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "career-advice": {
         "100": {
-          "value": "{color.red.700}",
+          "value": "{color.base.white}",
           "type": "color"
         },
         "200": {
+          "value": "{color.red.700}",
+          "type": "color"
+        },
+        "300": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "intelligence": {
         "100": {
-          "value": "{color.sky.700}",
+          "value": "{color.base.white}",
           "type": "color"
         },
         "200": {
+          "value": "{color.sky.700}",
+          "type": "color"
+        },
+        "300": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "cyber-security": {
         "100": {
-          "value": "{color.magenta.800}",
+          "value": "{color.base.white}",
           "type": "color"
         },
         "200": {
+          "value": "{color.magenta.800}",
+          "type": "color"
+        },
+        "300": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "cleared-recruiting": {
         "100": {
-          "value": "{color.indigo.700}",
+          "value": "{color.base.white}",
           "type": "color"
         },
         "200": {
+          "value": "{color.indigo.700}",
+          "type": "color"
+        },
+        "300": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "government-contractors": {
         "100": {
-          "value": "{color.orange.700}",
+          "value": "{color.base.white}",
           "type": "color"
         },
         "200": {
+          "value": "{color.orange.700}",
+          "type": "color"
+        },
+        "300": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "polygraph": {
         "100": {
-          "value": "{color.purple.700}",
+          "value": "{color.base.white}",
           "type": "color"
         },
         "200": {
+          "value": "{color.purple.700}",
+          "type": "color"
+        },
+        "300": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "oconus": {
         "100": {
-          "value": "{color.cyan.700}",
+          "value": "{color.base.white}",
           "type": "color"
         },
         "200": {
+          "value": "{color.cyan.700}",
+          "type": "color"
+        },
+        "300": {
           "value": "{color.base.white}",
           "type": "color"
         }
@@ -880,6 +932,10 @@
         },
         "200": {
           "value": "{color.emerald.700}",
+          "type": "color"
+        },
+        "300": {
+          "value": "{color.base.white}",
           "type": "color"
         }
       }
