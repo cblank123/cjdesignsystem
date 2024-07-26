@@ -233,7 +233,7 @@
           "type": "color"
         }
       },
-      "base-copy": {
+      "base": {
         "100": {
           "value": "{color.base.black}",
           "type": "color"
@@ -755,6 +755,10 @@
         "300": {
           "value": "{color.base.white}",
           "type": "color"
+        },
+        "400": {
+          "value": "{color.violet.600}",
+          "type": "color"
         }
       },
       "military-transition": {
@@ -768,6 +772,10 @@
         },
         "300": {
           "value": "{color.base.white}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{color.lime.800}",
           "type": "color"
         }
       },
@@ -783,6 +791,10 @@
         "300": {
           "value": "{color.base.white}",
           "type": "color"
+        },
+        "400": {
+          "value": "{color.green.700}",
+          "type": "color"
         }
       },
       "government": {
@@ -796,6 +808,10 @@
         },
         "300": {
           "value": "{color.base.white}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{color.teal.700}",
           "type": "color"
         }
       },
@@ -811,6 +827,10 @@
         "300": {
           "value": "{color.base.white}",
           "type": "color"
+        },
+        "400": {
+          "value": "{color.amber.700}",
+          "type": "color"
         }
       },
       "military": {
@@ -824,6 +844,10 @@
         },
         "300": {
           "value": "{color.base.white}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{color.blue.700}",
           "type": "color"
         }
       },
@@ -839,6 +863,10 @@
         "300": {
           "value": "{color.base.white}",
           "type": "color"
+        },
+        "400": {
+          "value": "{color.red.700}",
+          "type": "color"
         }
       },
       "intelligence": {
@@ -852,6 +880,10 @@
         },
         "300": {
           "value": "{color.base.white}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{color.sky.700}",
           "type": "color"
         }
       },
@@ -867,6 +899,10 @@
         "300": {
           "value": "{color.base.white}",
           "type": "color"
+        },
+        "400": {
+          "value": "{color.magenta.800}",
+          "type": "color"
         }
       },
       "cleared-recruiting": {
@@ -880,6 +916,10 @@
         },
         "300": {
           "value": "{color.base.white}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{color.indigo.700}",
           "type": "color"
         }
       },
@@ -895,6 +935,10 @@
         "300": {
           "value": "{color.base.white}",
           "type": "color"
+        },
+        "400": {
+          "value": "{color.orange.700}",
+          "type": "color"
         }
       },
       "polygraph": {
@@ -908,6 +952,10 @@
         },
         "300": {
           "value": "{color.base.white}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{color.purple.700}",
           "type": "color"
         }
       },
@@ -923,6 +971,10 @@
         "300": {
           "value": "{color.base.white}",
           "type": "color"
+        },
+        "400": {
+          "value": "{color.cyan.700}",
+          "type": "color"
         }
       },
       "workplace": {
@@ -936,6 +988,10 @@
         },
         "300": {
           "value": "{color.base.white}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{color.emerald.700}",
           "type": "color"
         }
       }
