@@ -10,11 +10,11 @@
         "type": "color"
       },
       "light": {
-        "value": "{color.neutral.800}",
+        "value": "{color.neutral.400}",
         "type": "color"
       },
       "inverse": {
-        "value": "{color.base.white}",
+        "value": "{color.neutral.1100}",
         "type": "color"
       },
       "inactive": {
@@ -26,11 +26,11 @@
         "type": "color"
       },
       "primary": {
-        "value": "{color.primary.800}",
+        "value": "{color.primary.700}",
         "type": "color"
       },
       "success": {
-        "value": "{color.success.800}",
+        "value": "{color.success.700}",
         "type": "color"
       },
       "warning": {
@@ -42,11 +42,11 @@
         "type": "color"
       },
       "information": {
-        "value": "{color.information.800}",
+        "value": "{color.information.700}",
         "type": "color"
       },
       "highlight": {
-        "value": "{color.highlight.800}",
+        "value": "{color.highlight.700}",
         "type": "color"
       }
     },
