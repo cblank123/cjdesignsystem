@@ -997,19 +997,19 @@
       },
       "sponsored": {
         "100": {
-          "value": "{color.base.white}",
+          "value": "{color.emerald.900}",
           "type": "color"
         },
         "200": {
-          "value": "{color.neutral.700}",
-          "type": "color"
-        },
-        "300": {
           "value": "{color.base.white}",
           "type": "color"
         },
+        "300": {
+          "value": "{color.gray.900}",
+          "type": "color"
+        },
         "400": {
-          "value": "{color.neutral.700}",
+          "value": "{color.emerald.900}",
           "type": "color"
         }
       },

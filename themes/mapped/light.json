@@ -1010,6 +1010,42 @@
           "value": "{color.emerald.900}",
           "type": "color"
         }
+      },
+      "uncatergorized": {
+        "100": {
+          "value": "{color.neutral.1100}",
+          "type": "color"
+        },
+        "200": {
+          "value": "{color.base.white}",
+          "type": "color"
+        },
+        "300": {
+          "value": "{color.neutral.900}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{color.neutral.1100}",
+          "type": "color"
+        }
+      },
+      "sponsored": {
+        "100": {
+          "value": "{color.neutral.900}",
+          "type": "color"
+        },
+        "200": {
+          "value": "{color.base.white}",
+          "type": "color"
+        },
+        "300": {
+          "value": "{color.neutral.900}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{color.neutral.900}",
+          "type": "color"
+        }
       }
     }
   }
