@@ -582,161 +582,161 @@
     },
     "background": {
       "defense-contractors": {
-        "bold": {
+        "hover": {
           "value": "{color.amber.800}",
           "type": "color"
         },
-        "sublte": {
+        "default": {
           "value": "{color.amber.100}",
           "type": "color"
         }
       },
       "government-contractors": {
-        "bold": {
+        "hover": {
           "value": "{color.orange.800}",
           "type": "color"
         },
-        "subtle": {
+        "default": {
           "value": "{color.orange.100}",
           "type": "color"
         }
       },
       "career-advice": {
-        "bold": {
+        "hover": {
           "value": "{color.red.800}",
           "type": "color"
         },
-        "sublte": {
+        "default": {
           "value": "{color.red.100}",
           "type": "color"
         }
       },
       "cyber-security": {
-        "bold": {
+        "hover": {
           "value": "{color.magenta.800}",
           "type": "color"
         },
-        "subtle": {
+        "default": {
           "value": "{color.magenta.100}",
           "type": "color"
         }
       },
       "polygraph": {
-        "bold": {
+        "hover": {
           "value": "{color.purple.800}",
           "type": "color"
         },
-        "sublte": {
+        "default": {
           "value": "{color.purple.100}",
           "type": "color"
         }
       },
       "defense-contracts": {
-        "bold": {
+        "hover": {
           "value": "{color.violet.800}",
           "type": "color"
         },
-        "sublte": {
+        "default": {
           "value": "{color.violet.100}",
           "type": "color"
         }
       },
       "cleared-recruiting": {
-        "bold": {
+        "hover": {
           "value": "{color.indigo.800}",
           "type": "color"
         },
-        "subtle": {
+        "default": {
           "value": "{color.indigo.100}",
           "type": "color"
         }
       },
       "intelligence": {
-        "bold": {
+        "hover": {
           "value": "{color.sky.800}",
           "type": "color"
         },
-        "bold-copy": {
+        "default": {
           "value": "{color.sky.100}",
           "type": "color"
         }
       },
       "military": {
-        "bold": {
+        "hover": {
           "value": "{color.blue.800}",
           "type": "color"
         },
-        "subtle": {
+        "default": {
           "value": "{color.blue.100}",
           "type": "color"
         }
       },
       "oconus": {
-        "bold": {
+        "hover": {
           "value": "{color.cyan.800}",
           "type": "color"
         },
-        "subtle": {
+        "default": {
           "value": "{color.cyan.100}",
           "type": "color"
         }
       },
       "work-place": {
-        "bold": {
+        "hover": {
           "value": "{color.emerald.800}",
           "type": "color"
         },
-        "subtle": {
+        "default": {
           "value": "{color.emerald.100}",
           "type": "color"
         }
       },
       "government": {
-        "bold": {
+        "hover": {
           "value": "{color.teal.800}",
           "type": "color"
         },
-        "subtle": {
+        "default": {
           "value": "{color.teal.100}",
           "type": "color"
         }
       },
       "security-clearance": {
-        "bold": {
+        "hover": {
           "value": "{color.green.800}",
           "type": "color"
         },
-        "subtle": {
+        "default": {
           "value": "{color.green.100}",
           "type": "color"
         }
       },
       "military-transtion": {
-        "bold": {
+        "hover": {
           "value": "{color.lime.900}",
           "type": "color"
         },
-        "subtle": {
+        "default": {
           "value": "{color.lime.100}",
           "type": "color"
         }
       },
       "uncategorized": {
-        "bold": {
+        "hover": {
           "value": "{color.gray.1100}",
           "type": "color"
         },
-        "subtle": {
+        "default": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "sponsored": {
-        "bold": {
+        "hover": {
           "value": "{color.gray.600}",
           "type": "color"
         },
-        "subtle": {
+        "default": {
           "value": "{color.gray.100}",
           "type": "color"
         }
@@ -744,142 +744,142 @@
     },
     "font": {
       "defense-contracts": {
-        "bold": {
+        "100": {
           "value": "{color.violet.600}",
           "type": "color"
         },
-        "inverse": {
+        "200": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "military-transition": {
-        "bold": {
+        "100": {
           "value": "{color.lime.800}",
           "type": "color"
         },
-        "inverse": {
+        "200": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "security-clearance": {
-        "bold": {
+        "100": {
           "value": "{color.green.700}",
           "type": "color"
         },
-        "inverse": {
+        "200": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "government": {
-        "bold": {
+        "100": {
           "value": "{color.teal.700}",
           "type": "color"
         },
-        "inverse": {
+        "200": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "defense-contractors": {
-        "bold": {
+        "100": {
           "value": "{color.amber.700}",
           "type": "color"
         },
-        "inverse": {
+        "200": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "military": {
-        "bold": {
+        "100": {
           "value": "{color.blue.700}",
           "type": "color"
         },
-        "inverse": {
+        "200": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "career-advice": {
-        "bold": {
+        "100": {
           "value": "{color.red.700}",
           "type": "color"
         },
-        "inverse": {
+        "200": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "intelligence": {
-        "bold": {
+        "100": {
           "value": "{color.sky.700}",
           "type": "color"
         },
-        "inverse": {
+        "200": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "cyber-security": {
-        "bold": {
+        "100": {
           "value": "{color.magenta.800}",
           "type": "color"
         },
-        "inverse": {
+        "200": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "cleared-recruiting": {
-        "bold": {
+        "100": {
           "value": "{color.indigo.700}",
           "type": "color"
         },
-        "inverse": {
+        "200": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "government-contractors": {
-        "bold": {
+        "100": {
           "value": "{color.orange.700}",
           "type": "color"
         },
-        "inverse": {
+        "200": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "polygraph": {
-        "bold": {
+        "100": {
           "value": "{color.purple.700}",
           "type": "color"
         },
-        "inverse": {
+        "200": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "oconus": {
-        "bold": {
+        "100": {
           "value": "{color.cyan.700}",
           "type": "color"
         },
-        "inverse": {
+        "200": {
           "value": "{color.base.white}",
           "type": "color"
         }
       },
       "workplace": {
-        "bold": {
-          "value": "{color.emerald.700}",
+        "100": {
+          "value": "{color.base.white}",
           "type": "color"
         },
-        "inverse": {
-          "value": "{color.base.white}",
+        "200": {
+          "value": "{color.emerald.700}",
           "type": "color"
         }
       }

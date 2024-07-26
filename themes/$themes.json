@@ -911,7 +911,6 @@
       "news-tag.font.security-clearance.bold": "1ff5173e210d07ce6f25f3a1843f2bc3348d4df8",
       "news-tag.font.security-clearance.inverse": "10b1bb309a9be8cf05ffe9333675073b8ebf2e58",
       "news-tag.font.government.bold": "6f382e353f030a2f1eac816f6707e800c68f87b3",
-      "news-tag.font.government.inverse": "86fb50ead1024a7e55527f12d7b05ca5481096ca",
       "news-tag.font.defense-contractors.bold": "1424e9eba87ba43ad36bdac16828aaa0a15b414d",
       "news-tag.font.defense-contractors.inverse": "ef9a1e675708240325eb3ebd68b7028574d1ffe4",
       "news-tag.font.military.bold": "313b0c597405f8067d41731ff021f47984e1bf54",
@@ -974,7 +973,8 @@
       "color.background.highlight.subtle": "81c74e01e976d0f4dcaf9541c9d0b5eeab0f0d90",
       "color.background.highlight.subtle-hover": "d010f37f7262908f20e15e2ffdcac4b3f474adcb",
       "color.background.highlight.subtle-active": "bd9513769001cdbcb9c49f2d683fb902454f5443",
-      "color.background.base.200": "66b24eaa616e0e360307149249bc4467e319ea7f"
+      "color.background.base.200": "66b24eaa616e0e360307149249bc4467e319ea7f",
+      "news-tag.font.government.neutral": "86fb50ead1024a7e55527f12d7b05ca5481096ca"
     }
   },
   {
