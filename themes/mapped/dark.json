@@ -232,6 +232,36 @@
           "value": "{color.highlight.300}",
           "type": "color"
         }
+      },
+      "base-copy": {
+        "100": {
+          "value": "{color.base.black}",
+          "type": "color"
+        },
+        "200": {
+          "value": "{color.neutral.1200}",
+          "type": "color"
+        },
+        "300": {
+          "value": "{color.neutral.1100}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{color.blue.1200}",
+          "type": "color"
+        },
+        "500": {
+          "value": "{color.neutral.200}",
+          "type": "color"
+        },
+        "600": {
+          "value": "{color.neutral.100}",
+          "type": "color"
+        },
+        "700": {
+          "value": "{color.base.white}",
+          "type": "color"
+        }
       }
     },
     "card": {
