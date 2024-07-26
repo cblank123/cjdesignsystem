@@ -479,10 +479,6 @@
         "value": "{color.primary.900}",
         "type": "color"
       },
-      "primary-active": {
-        "value": "{color.primary.1000}",
-        "type": "color"
-      },
       "visited": {
         "value": "{color.violet.700}",
         "type": "color"
@@ -500,6 +496,10 @@
         "type": "color"
       },
       "inverse": {
+        "value": "{color.base.white}",
+        "type": "color"
+      },
+      "inverse-hover": {
         "value": "{color.base.white}",
         "type": "color"
       }
