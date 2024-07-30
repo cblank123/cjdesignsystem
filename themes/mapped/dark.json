@@ -519,10 +519,6 @@
             "default": {
               "value": "{color.neutral.1000}",
               "type": "color"
-            },
-            "hover": {
-              "value": "{color.neutral.1000}",
-              "type": "color"
             }
           },
           "font": {
