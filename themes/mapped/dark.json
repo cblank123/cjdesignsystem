@@ -271,7 +271,7 @@
           "type": "color"
         },
         "border-light": {
-          "value": "{color.neutral.1000}",
+          "value": "{color.neutral.1100}",
           "type": "color"
         },
         "border-hover": {
