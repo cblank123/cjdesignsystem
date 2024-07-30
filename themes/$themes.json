@@ -1710,7 +1710,20 @@
       "color.cjnews.segment-control.control-border.hover": "9d5d74b4b3bd73cee8f09923d250067858aa7c0d",
       "color.cjnews.segment-control.control-border.default": "d48fc98c8c3582f83adae75f282ee048815355d1",
       "color.cjnews.segment-control.container.background": "851071ab7abc321ec56ebc84e6b023f610bf6077",
-      "color.cjnews.segment-control.container.border": "d5b01d43bbbc170fd38532005927d4b68fa90f61"
+      "color.cjnews.segment-control.container.border": "d5b01d43bbbc170fd38532005927d4b68fa90f61",
+      "color.cjnews.share.list-container.border": "fd9e6439f667e94354e59f8a2a00e33c3661db31",
+      "color.cjnews.share.list-container.background": "21e75ca5db466e24c7a2eafce52a2a81104d1f9f",
+      "color.cjnews.share.icon.default": "dc5da029a1a106559107d386553c2c3326b8e005",
+      "color.cjnews.share.icon.hover": "95eb380b1cd3380bfd2929eda340d5c8ee9458ef",
+      "color.cjnews.share.icon.selected": "c85c483d033ee98b76d255a5021264bab47f7dac",
+      "color.cjnews.share.background.default": "fbb7cba609bb6ec0d27a5d7f12aa3f68fe84e2e8",
+      "color.cjnews.share.background.hover": "f96708bbb6c8145a3c5c123141c59812127079a2",
+      "color.cjnews.share.background.selected": "b73cab2dddf36537810f949a51ef1117834fb209",
+      "color.cjnews.article-action.icon.default": "41158a32ee1cffc02ce1ad194b2dfda1ff41ae49",
+      "color.cjnews.article-action.icon.hover": "db1d4d05d3b9d5a613d5ddb234a47229e82a3ba9",
+      "color.cjnews.article-action.icon.selected": "0fa8681e990e17a18b969b537ed232c2229e3a01",
+      "color.cjnews.article-action.background.hover": "2d0d1bed609ada13f0ddfa2cf3dbb9e627297182",
+      "color.cjnews.article-action.background.selected": "95c6ec3363684dfe8c3a3dfcdc3a864ebe814f6e"
     },
     "group": "mapped"
   }
