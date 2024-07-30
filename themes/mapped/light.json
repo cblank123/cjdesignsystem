@@ -559,6 +559,10 @@
             "hover": {
               "value": "{color.neutral.100}",
               "type": "color"
+            },
+            "active": {
+              "value": "{color.base.white}",
+              "type": "color"
             }
           },
           "font": {
