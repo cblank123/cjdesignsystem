@@ -527,6 +527,68 @@
         "value": "{color.base.white}",
         "type": "color"
       }
+    },
+    "cjnews-navigation": {
+      "background": {
+        "primary": {
+          "value": "{color.base.white}",
+          "type": "color"
+        }
+      },
+      "font": {
+        "hover": {
+          "value": "{color.primary.800}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{color.primary.800}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{color.neutral.1100}",
+          "type": "color"
+        }
+      }
+    },
+    "cjnews-navigation-search": {
+      "background": {
+        "default": {
+          "value": "{color.base.white}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.neutral.100}",
+          "type": "color"
+        }
+      },
+      "font": {
+        "placeholder": {
+          "value": "{color.font.placeholder}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{color.neutral.1100}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "{color.neutral.300}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.primary.800}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{color.primary.800}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{color.neutral.600}",
+          "type": "color"
+        }
+      }
     }
   },
   "news-tag": {
