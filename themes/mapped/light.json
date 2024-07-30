@@ -1703,7 +1703,7 @@
               "type": "color"
             },
             "loading": {
-              "value": "{color.danger.800}",
+              "value": "rgba(255,255,255,0)",
               "type": "color"
             }
           },
