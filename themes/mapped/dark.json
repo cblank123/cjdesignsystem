@@ -1116,6 +1116,16 @@
             }
           }
         }
+      },
+      "logo": {
+        "primary": {
+          "value": "{color.base.white}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{color.base.white}",
+          "type": "color"
+        }
       }
     }
   }

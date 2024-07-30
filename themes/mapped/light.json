@@ -1132,6 +1132,16 @@
             }
           }
         }
+      },
+      "logo": {
+        "primary": {
+          "value": "{color.brand.blue-primary}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{color.brand.red-primary}",
+          "type": "color"
+        }
       }
     }
   }
