@@ -1176,7 +1176,7 @@
         },
         "container": {
           "background": {
-            "value": "{color.neutral.1100}",
+            "value": "{color.neutral.1200}",
             "type": "color"
           },
           "border": {
