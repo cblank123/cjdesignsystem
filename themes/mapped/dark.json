@@ -267,11 +267,11 @@
     "card": {
       "border": {
         "border-dark": {
-          "value": "{color.neutral.400}",
+          "value": "{color.neutral.1100}",
           "type": "color"
         },
         "border-light": {
-          "value": "{color.neutral.200}",
+          "value": "{color.neutral.900}",
           "type": "color"
         },
         "border-hover": {
