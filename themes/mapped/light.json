@@ -1192,7 +1192,7 @@
         },
         "container": {
           "background": {
-            "value": "{color.base.white}",
+            "value": "{color.neutral.100}",
             "type": "color"
           },
           "border": {
