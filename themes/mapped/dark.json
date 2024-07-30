@@ -578,7 +578,7 @@
         },
         "background": {
           "primary": {
-            "value": "{color.base.white}",
+            "value": "{color.base.black}",
             "type": "color"
           }
         },
