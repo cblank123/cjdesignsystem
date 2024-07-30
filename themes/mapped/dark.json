@@ -285,7 +285,7 @@
           "type": "color"
         },
         "100": {
-          "value": "{color.neutral.1200}",
+          "value": "{color.neutral.1000}",
           "type": "color"
         },
         "200": {
