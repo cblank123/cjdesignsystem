@@ -517,6 +517,10 @@
         "search": {
           "background": {
             "default": {
+              "value": "{color.neutral.900}",
+              "type": "color"
+            },
+            "hover": {
               "value": "{color.neutral.1000}",
               "type": "color"
             }
