@@ -1229,7 +1229,18 @@
       "color.button.neutral.quatinary.icon.default": "9f36c6cebf13b30f19fdf661ea8e83ad22d7b1cd",
       "color.button.neutral.quatinary.icon.hover": "3f4962c925f9142e8396299b035a3793038fce41",
       "color.button.neutral.quatinary.icon.active": "589605b35c89bbd184b13e6c273e94711e815792",
-      "color.button.neutral.quatinary.icon.loading": "a112d8f69d80dc5138788a05b6b57e5e56723d8b"
+      "color.button.neutral.quatinary.icon.loading": "a112d8f69d80dc5138788a05b6b57e5e56723d8b",
+      "color.cjnews.segment-control.control-background.active": "8ca5360e812f58e21d5a160ae4099c416ed4257d",
+      "color.cjnews.segment-control.control-background.hover": "c9bbe66d3ebe98b50043e04b8d67545c73168583",
+      "color.cjnews.segment-control.control-background.default": "eddced4c8b5fa2788e6ff33220626974c113dfaf",
+      "color.cjnews.segment-control.control-font.active": "a0cb51e7d29b6a624d325cee7c3db46819f51d17",
+      "color.cjnews.segment-control.control-font.hover": "a0f964801dca89447ebf19d2afc4f64acff4de9e",
+      "color.cjnews.segment-control.control-font.default": "00d4f93c85e5cf636efdeb3b08c878a37deceb39",
+      "color.cjnews.segment-control.control-border.active": "5a8ed342533361b1d32a9951961f9d7cf7571db4",
+      "color.cjnews.segment-control.control-border.hover": "9d5d74b4b3bd73cee8f09923d250067858aa7c0d",
+      "color.cjnews.segment-control.control-border.default": "d48fc98c8c3582f83adae75f282ee048815355d1",
+      "color.cjnews.segment-control.container.background": "851071ab7abc321ec56ebc84e6b023f610bf6077",
+      "color.cjnews.segment-control.container.border": "d5b01d43bbbc170fd38532005927d4b68fa90f61"
     }
   },
   {
@@ -1675,7 +1686,18 @@
       "color.button.neutral.quatinary.icon.default": "9f36c6cebf13b30f19fdf661ea8e83ad22d7b1cd",
       "color.button.neutral.quatinary.icon.hover": "3f4962c925f9142e8396299b035a3793038fce41",
       "color.button.neutral.quatinary.icon.active": "589605b35c89bbd184b13e6c273e94711e815792",
-      "color.button.neutral.quatinary.icon.loading": "a112d8f69d80dc5138788a05b6b57e5e56723d8b"
+      "color.button.neutral.quatinary.icon.loading": "a112d8f69d80dc5138788a05b6b57e5e56723d8b",
+      "color.cjnews.segment-control.control-background.active": "8ca5360e812f58e21d5a160ae4099c416ed4257d",
+      "color.cjnews.segment-control.control-background.hover": "c9bbe66d3ebe98b50043e04b8d67545c73168583",
+      "color.cjnews.segment-control.control-background.default": "eddced4c8b5fa2788e6ff33220626974c113dfaf",
+      "color.cjnews.segment-control.control-font.active": "a0cb51e7d29b6a624d325cee7c3db46819f51d17",
+      "color.cjnews.segment-control.control-font.hover": "a0f964801dca89447ebf19d2afc4f64acff4de9e",
+      "color.cjnews.segment-control.control-font.default": "00d4f93c85e5cf636efdeb3b08c878a37deceb39",
+      "color.cjnews.segment-control.control-border.active": "5a8ed342533361b1d32a9951961f9d7cf7571db4",
+      "color.cjnews.segment-control.control-border.hover": "9d5d74b4b3bd73cee8f09923d250067858aa7c0d",
+      "color.cjnews.segment-control.control-border.default": "d48fc98c8c3582f83adae75f282ee048815355d1",
+      "color.cjnews.segment-control.container.background": "851071ab7abc321ec56ebc84e6b023f610bf6077",
+      "color.cjnews.segment-control.container.border": "d5b01d43bbbc170fd38532005927d4b68fa90f61"
     },
     "group": "mapped"
   }

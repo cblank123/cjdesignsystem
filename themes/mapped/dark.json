@@ -1176,11 +1176,11 @@
         },
         "container": {
           "background": {
-            "value": "{color.base.white}",
+            "value": "{color.base.black}",
             "type": "color"
           },
           "border": {
-            "value": "{color.gray.200}",
+            "value": "{color.neutral.900}",
             "type": "color"
           }
         }
