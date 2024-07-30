@@ -575,7 +575,7 @@
       }
     }
   },
-  "news-tag": {
+  "cjnews-tag": {
     "border": {
       "defense-contractors": {
         "value": "{color.amber.500}",
