@@ -1130,6 +1130,60 @@
           "value": "{color.base.white}",
           "type": "color"
         }
+      },
+      "segment-control": {
+        "control-background": {
+          "active": {
+            "value": "{color.primary.800}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.blue.200}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{color.base.white}",
+            "type": "color"
+          }
+        },
+        "control-font": {
+          "active": {
+            "value": "{color.base.white}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.blue.800}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{color.primary.800}",
+            "type": "color"
+          }
+        },
+        "control-border": {
+          "active": {
+            "value": "{color.primary.800}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.primary.300}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{color.base.white}",
+            "type": "color"
+          }
+        },
+        "container": {
+          "background": {
+            "value": "{color.base.white}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{color.gray.200}",
+            "type": "color"
+          }
+        }
       }
     },
     "button": {
