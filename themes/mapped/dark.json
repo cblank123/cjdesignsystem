@@ -531,7 +531,7 @@
           },
           "font": {
             "placeholder": {
-              "value": "{color.neutral.400}",
+              "value": "{color.neutral.300}",
               "type": "color"
             },
             "active": {
@@ -554,6 +554,24 @@
             },
             "active": {
               "value": "{color.neutral.800}",
+              "type": "color"
+            }
+          },
+          "icon": {
+            "default": {
+              "value": "{color.neutral.300}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{color.neutral.300}",
+              "type": "color"
+            },
+            "selected": {
+              "value": "{color.primary.700}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{color.base.white}",
               "type": "color"
             }
           }

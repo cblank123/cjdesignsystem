@@ -592,6 +592,24 @@
               "value": "{color.neutral.600}",
               "type": "color"
             }
+          },
+          "icon": {
+            "default": {
+              "value": "{color.neutral.800}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{color.neutral.800}",
+              "type": "color"
+            },
+            "selected": {
+              "value": "{color.primary.800}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{color.neutral.900}",
+              "type": "color"
+            }
           }
         }
       },
