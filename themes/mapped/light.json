@@ -280,12 +280,16 @@
         }
       },
       "background": {
-        "border-dark": {
+        "0": {
+          "value": "{color.base.white}",
+          "type": "color"
+        },
+        "100": {
           "value": "{color.neutral.100}",
           "type": "color"
         },
-        "background-light": {
-          "value": "{color.base.white}",
+        "200": {
+          "value": "{color.neutral.200}",
           "type": "color"
         }
       }

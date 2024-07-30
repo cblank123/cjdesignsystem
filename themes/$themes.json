@@ -856,8 +856,6 @@
       "color.card.border.border-dark": "3216eef2cb9ff145ac63c2a7f134553de8fc7b82",
       "color.card.border.border-light": "921acc04e105d0a0d03172414469dc37f9be3687",
       "color.card.border.border-hover": "8f14150b356ae9b7dd4cb00a6b50230ed5f0dabc",
-      "color.card.background.border-dark": "19ec20c2c0fd569c119d94e4c664faffd508fe30",
-      "color.card.background.background-light": "007c9ebe7a583d2f7cb4590ef7f41a003bdb797b",
       "color.input.border.border": "8eee6cfaeb07c608ca947ad485278148a2033417",
       "color.input.border.border-hover": "acbbe26dfd0e50ba35739b902d4e843010861692",
       "color.input.border.border-focus": "e4d81601b58a2f212a0ddf6399d10785df8194bc",
@@ -1036,7 +1034,8 @@
       "color.cjnews.navigation.search.icon.selected": "3daa7043ee370a24dea35428f601fa0eb5aecfdc",
       "color.cjnews.navigation.search.icon.active": "bb0a6cb9ebe9b8a18e4ce87c612e3f7bb14fd290",
       "color.cjnews.logo.primary": "601f46941c95b3ff12a3e3d4937c0bf67ecb9763",
-      "color.cjnews.logo.secondary": "06cc6d132309df49dfbe04206212ca77540f896c"
+      "color.cjnews.logo.secondary": "06cc6d132309df49dfbe04206212ca77540f896c",
+      "color.card.background.0": "19ec20c2c0fd569c119d94e4c664faffd508fe30"
     }
   },
   {
@@ -1113,8 +1112,6 @@
       "color.card.border.border-dark": "3216eef2cb9ff145ac63c2a7f134553de8fc7b82",
       "color.card.border.border-light": "921acc04e105d0a0d03172414469dc37f9be3687",
       "color.card.border.border-hover": "8f14150b356ae9b7dd4cb00a6b50230ed5f0dabc",
-      "color.card.background.border-dark": "19ec20c2c0fd569c119d94e4c664faffd508fe30",
-      "color.card.background.background-light": "968a2bd02c3009f0af8fcbecb86845a681cb06e0",
       "color.input.border.border": "8eee6cfaeb07c608ca947ad485278148a2033417",
       "color.input.border.border-hover": "acbbe26dfd0e50ba35739b902d4e843010861692",
       "color.input.border.border-focus": "e4d81601b58a2f212a0ddf6399d10785df8194bc",
@@ -1289,7 +1286,9 @@
       "color.cjnews.navigation.search.icon.selected": "3daa7043ee370a24dea35428f601fa0eb5aecfdc",
       "color.cjnews.navigation.search.icon.active": "bb0a6cb9ebe9b8a18e4ce87c612e3f7bb14fd290",
       "color.cjnews.logo.primary": "601f46941c95b3ff12a3e3d4937c0bf67ecb9763",
-      "color.cjnews.logo.secondary": "06cc6d132309df49dfbe04206212ca77540f896c"
+      "color.cjnews.logo.secondary": "06cc6d132309df49dfbe04206212ca77540f896c",
+      "color.card.background.0": "19ec20c2c0fd569c119d94e4c664faffd508fe30",
+      "color.card.background.100": "968a2bd02c3009f0af8fcbecb86845a681cb06e0"
     },
     "group": "mapped"
   }
