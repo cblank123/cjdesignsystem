@@ -3303,5 +3303,43 @@
       "value": ".0",
       "type": "opacity"
     }
+  },
+  "icon": {
+    "125": {
+      "value": "10",
+      "type": "sizing"
+    },
+    "150": {
+      "value": "12",
+      "type": "sizing"
+    },
+    "175": {
+      "value": "14",
+      "type": "sizing"
+    },
+    "200": {
+      "value": "16",
+      "type": "sizing"
+    },
+    "225": {
+      "value": "18",
+      "type": "sizing"
+    },
+    "250": {
+      "value": "20",
+      "type": "sizing"
+    },
+    "300": {
+      "value": "24",
+      "type": "sizing"
+    },
+    "350": {
+      "value": "28",
+      "type": "sizing"
+    },
+    "400": {
+      "value": "32",
+      "type": "sizing"
+    }
   }
 }
