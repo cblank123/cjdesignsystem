@@ -686,7 +686,19 @@
       "icon.250": "4a261749963ebe11900b0b144e0d9b7cb541f0be",
       "icon.300": "a8560fa9b6609472b41f937ebc9f4ed14f947f31",
       "icon.350": "d2d10de79296b1e4208c1df99ff358bf8f35073a",
-      "icon.400": "f03282538c2cbf195c04a2145043ac58b1a4b1af"
+      "icon.400": "f03282538c2cbf195c04a2145043ac58b1a4b1af",
+      "color.slate.100": "246b04855664a8a903da8298ee199404cc35ce12",
+      "color.slate.200": "83c2bff8f702c54f41f9baa8da4dbc3430abea11",
+      "color.slate.300": "8cfd4cb1930c2f44eb894c3734a92796d17d6b75",
+      "color.slate.400": "d205e2f32b2fae3fa96c59f4169b078cad6b2977",
+      "color.slate.500": "ff677a1a273f1c9b86d33d47429c53644563008a",
+      "color.slate.600": "b5ba4659bb0bb00b1897f29f7c4db1d97176e6b7",
+      "color.slate.700": "92ef7c46480d568faf982b3840dcbe6b1b24a4de",
+      "color.slate.800": "3b9835ca7dfbd9a2526050d81d9ed657b1e3c2cb",
+      "color.slate.900": "65668e62f822d0fdb0f75fb6a0de06eabf0645d9",
+      "color.slate.1000": "565e887c7a3a73e3aa3014bd3f38219c44c95372",
+      "color.slate.1100": "a43370385c3f2f342dea0800c16f60de667f1851",
+      "color.slate.1200": "c3b511123e4e28e814c5502d5f78d81f87d12d04"
     }
   },
   {
