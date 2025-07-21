@@ -1795,9 +1795,9 @@
       "color.icon.tag.cyan.subtle": "0cf565c1aec50b40f7265a87d72e4a1c5b0c1858",
       "color.icon.tag.cyan.light": "45193b8c77ee92e0f6668ce90d0bd968e2cd4664",
       "color.icon.hiring-need.default": "78a429bb4a8d33777a349d3d73ad4e70308574db",
-      "color.icon.news-navigation.default": "99e7ca5235efc05d59d47b1df1d19cf3eac1c404",
-      "color.icon.news-navigation.hover": "393ec08861b8e4eb45872ab5e55e919da2c4734c",
-      "color.icon.news-navigation.active": "6a662a85900f76455236818a6f71f5e33125b512"
+      "color.icon.news-navigation.default": "bdf30f1daefd7635056606ed97905c72f8b9aea8",
+      "color.icon.news-navigation.hover": "dc2d8581ec66a15c04bc1de1267157738ba295b7",
+      "color.icon.news-navigation.active": "da33241d18825b1b24c864b035523671c6e730c1"
     },
     "group": "mapped"
   },
