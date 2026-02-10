@@ -576,15 +576,15 @@
             "type": "color"
           },
           "tint": {
-            "value": "{color.cyan.1100}",
+            "value": "{color.cyan.1200}",
             "type": "color"
           },
           "subtle": {
-            "value": "{color.cyan.1100}",
+            "value": "{color.cyan.1200}",
             "type": "color"
           },
           "light": {
-            "value": "{color.cyan.1100}",
+            "value": "{color.cyan.1200}",
             "type": "color"
           }
         },
