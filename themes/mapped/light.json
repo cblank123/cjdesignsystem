@@ -2217,6 +2217,24 @@
             "value": "{color.magenta.500}",
             "type": "color"
           }
+        },
+        "yellow": {
+          "bold": {
+            "value": "{color.yellow.900}",
+            "type": "color"
+          },
+          "tint": {
+            "value": "{color.yellow.300}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{color.yellow.500}",
+            "type": "color"
+          },
+          "light": {
+            "value": "{color.yellow.500}",
+            "type": "color"
+          }
         }
       }
     },
