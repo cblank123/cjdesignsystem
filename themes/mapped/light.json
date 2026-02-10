@@ -488,11 +488,11 @@
             "type": "color"
           },
           "subtle": {
-            "value": "{color.orange.1000}",
+            "value": "{color.orange.1100}",
             "type": "color"
           },
           "light": {
-            "value": "{color.orange.1000}",
+            "value": "{color.orange.1100}",
             "type": "color"
           }
         },
