@@ -702,7 +702,7 @@
             "type": "color"
           },
           "tint": {
-            "value": "{color.yellow.1300}",
+            "value": "{color.yellow.1200}",
             "type": "color"
           },
           "subtle": {
@@ -1512,7 +1512,7 @@
         },
         "yellow": {
           "bold": {
-            "value": "{color.yellow.1000}",
+            "value": "{color.yellow.1200}",
             "type": "color"
           },
           "tint": {
@@ -2240,11 +2240,11 @@
             "type": "color"
           },
           "subtle": {
-            "value": "{color.yellow.500}",
+            "value": "{color.yellow.600}",
             "type": "color"
           },
           "light": {
-            "value": "{color.yellow.500}",
+            "value": "{color.yellow.600}",
             "type": "color"
           }
         }
