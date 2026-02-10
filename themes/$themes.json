@@ -2416,7 +2416,15 @@
       "color.background.segmentControl.hover": "87de494219a63fa393c0e86dddebf324368e1b7a",
       "color.background.segmentControl.default": "ef9c97afb5e6190e011d032c432623d346e05d53",
       "color.background.segmentContainer.background": "6bc240da0725ca89dd8d4238298adf9a313aa76d",
-      "color.background.segmentContainer.border": "45c4b3ca5f08329099d5deaa14097e7bb7b24c80"
+      "color.background.segmentContainer.border": "45c4b3ca5f08329099d5deaa14097e7bb7b24c80",
+      "color.background.tag.yellow.bold": "6520a3cbea477d5d30e01f925f9a178d35c88198",
+      "color.background.tag.yellow.tint": "b016cf75a017907be2cfeb630e4e2dc4633dd049",
+      "color.background.tag.yellow.subtle": "d6426ca3def16379bf93ff355db7e2b36b0650a4",
+      "color.background.tag.yellow.light": "036499f2a0ec462551f6aaec27b4113dff9da7d3",
+      "color.text.tag.yellow.bold": "ba2c2f9ec8dd05e3c2d105429565f41bb7c5c8ed",
+      "color.text.tag.yellow.tint": "9f60a2b6ad03918252329b4a0ab33f94bb76eefc",
+      "color.text.tag.yellow.subtle": "ecbb80e9bf42103710e98f4f13e3cb58978be308",
+      "color.text.tag.yellow.light": "cfe4b2eb2bf9522f00136bd2b89ddcfc2851fb8a"
     },
     "group": "mapped"
   }
