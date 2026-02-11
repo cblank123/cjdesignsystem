@@ -711,6 +711,24 @@
             "value": "{color.yellow.1200}",
             "type": "color"
           }
+        },
+        "indigo": {
+          "bold": {
+            "value": "{color.base.white}",
+            "type": "color"
+          },
+          "tint": {
+            "value": "{color.indigo.1200}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{color.indigo.1200}",
+            "type": "color"
+          },
+          "light": {
+            "value": "{color.indigo.1200}",
+            "type": "color"
+          }
         }
       }
     },
@@ -1515,6 +1533,24 @@
             "value": "{color.base.white}",
             "type": "color"
           }
+        },
+        "indigo": {
+          "bold": {
+            "value": "{color.indigo.1200}",
+            "type": "color"
+          },
+          "tint": {
+            "value": "{color.indigo.300}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{color.indigo.100}",
+            "type": "color"
+          },
+          "light": {
+            "value": "{color.base.white}",
+            "type": "color"
+          }
         }
       }
     },
@@ -2233,6 +2269,24 @@
           },
           "light": {
             "value": "{color.yellow.600}",
+            "type": "color"
+          }
+        },
+        "indigo": {
+          "bold": {
+            "value": "{color.indigo.900}",
+            "type": "color"
+          },
+          "tint": {
+            "value": "{color.indigo.300}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{color.indigo.600}",
+            "type": "color"
+          },
+          "light": {
+            "value": "{color.indigo.600}",
             "type": "color"
           }
         }
