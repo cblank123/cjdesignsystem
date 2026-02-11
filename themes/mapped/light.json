@@ -2084,11 +2084,11 @@
             "type": "color"
           },
           "subtle": {
-            "value": "{color.gray.600}",
+            "value": "{color.gray.500}",
             "type": "color"
           },
           "light": {
-            "value": "{color.gray.600}",
+            "value": "{color.gray.500}",
             "type": "color"
           }
         },
@@ -2192,11 +2192,11 @@
             "type": "color"
           },
           "subtle": {
-            "value": "{color.emerald.500}",
+            "value": "{color.emerald.600}",
             "type": "color"
           },
           "light": {
-            "value": "{color.emerald.500}",
+            "value": "{color.emerald.600}",
             "type": "color"
           }
         },
