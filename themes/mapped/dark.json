@@ -2294,11 +2294,11 @@
             "type": "color"
           },
           "subtle": {
-            "value": "{color.indigo.600}",
+            "value": "{color.indigo.500}",
             "type": "color"
           },
           "light": {
-            "value": "{color.indigo.600}",
+            "value": "{color.indigo.500}",
             "type": "color"
           }
         }
