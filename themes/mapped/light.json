@@ -1342,7 +1342,7 @@
             "type": "color"
           },
           "tint": {
-            "value": "{color.gray.300}",
+            "value": "{color.gray.200}",
             "type": "color"
           },
           "subtle": {
