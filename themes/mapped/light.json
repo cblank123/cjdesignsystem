@@ -1428,7 +1428,7 @@
         },
         "green": {
           "bold": {
-            "value": "{color.green.1100}",
+            "value": "{color.green.1200}",
             "type": "color"
           },
           "tint": {
@@ -2220,7 +2220,7 @@
         },
         "green": {
           "bold": {
-            "value": "{color.green.1000}",
+            "value": "{color.green.1200}",
             "type": "color"
           },
           "tint": {
@@ -2832,15 +2832,15 @@
             "type": "color"
           },
           "tint": {
-            "value": "{color.green.1100}",
+            "value": "{color.green.1200}",
             "type": "color"
           },
           "subtle": {
-            "value": "{color.green.1000}",
+            "value": "{color.green.1200}",
             "type": "color"
           },
           "light": {
-            "value": "{color.green.1000}",
+            "value": "{color.green.1200}",
             "type": "color"
           }
         },
