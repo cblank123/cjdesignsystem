@@ -2909,6 +2909,24 @@
             "value": "{color.amber.800}",
             "type": "color"
           }
+        },
+        "indigo": {
+          "bold": {
+            "value": "{color.base.white}",
+            "type": "color"
+          },
+          "tint": {
+            "value": "{color.indigo.1000}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{color.accent.indigo.1000}",
+            "type": "color"
+          },
+          "light": {
+            "value": "{color.indigo.1000}",
+            "type": "color"
+          }
         }
       }
     }
