@@ -1536,7 +1536,7 @@
         },
         "indigo": {
           "bold": {
-            "value": "{color.indigo.1000}",
+            "value": "{color.indigo.900}",
             "type": "color"
           },
           "tint": {
@@ -2904,15 +2904,15 @@
             "type": "color"
           },
           "tint": {
-            "value": "{color.indigo.1000}",
+            "value": "{color.indigo.900}",
             "type": "color"
           },
           "subtle": {
-            "value": "{color.accent.indigo.1000}",
+            "value": "{color.indigo.900}",
             "type": "color"
           },
           "light": {
-            "value": "{color.indigo.1000}",
+            "value": "{color.indigo.900}",
             "type": "color"
           }
         }
