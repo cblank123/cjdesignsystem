@@ -718,15 +718,15 @@
             "type": "color"
           },
           "tint": {
-            "value": "{color.indigo.1200}",
+            "value": "{color.indigo.900}",
             "type": "color"
           },
           "subtle": {
-            "value": "{color.indigo.1200}",
+            "value": "{color.indigo.900}",
             "type": "color"
           },
           "light": {
-            "value": "{color.indigo.1200}",
+            "value": "{color.indigo.900}",
             "type": "color"
           }
         }
