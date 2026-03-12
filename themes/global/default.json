@@ -382,7 +382,7 @@
         "type": "color"
       }
     },
-    "Chartreuse": {
+    "chartreuse": {
       "100": {
         "value": "#FDFEF6",
         "type": "color"

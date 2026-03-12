@@ -2927,6 +2927,42 @@
             "value": "{color.indigo.1000}",
             "type": "color"
           }
+        },
+        "yellow": {
+          "bold": {
+            "value": "{color.base.white}",
+            "type": "color"
+          },
+          "tint": {
+            "value": "{color.yellow.1200}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{color.yellow.1200}",
+            "type": "color"
+          },
+          "light": {
+            "value": "{color.yellow.1200}",
+            "type": "color"
+          }
+        },
+        "chartreuse": {
+          "bold": {
+            "value": "{color.base.white}",
+            "type": "color"
+          },
+          "tint": {
+            "value": "{color.chartreuse.1100}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{color.chartreuse.1100}",
+            "type": "color"
+          },
+          "light": {
+            "value": "{color.chartreuse.1100}",
+            "type": "color"
+          }
         }
       }
     }
