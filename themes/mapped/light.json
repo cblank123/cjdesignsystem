@@ -2940,15 +2940,15 @@
             "type": "color"
           },
           "tint": {
-            "value": "{color.amber.1100}",
+            "value": "{color.amber.1200}",
             "type": "color"
           },
           "subtle": {
-            "value": "{color.amber.1000}",
+            "value": "{color.amber.1100}",
             "type": "color"
           },
           "light": {
-            "value": "{color.amber.1000}",
+            "value": "{color.amber.1100}",
             "type": "color"
           }
         },
