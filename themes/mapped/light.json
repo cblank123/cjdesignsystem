@@ -9,6 +9,10 @@
         "value": "{color.neutral.1200}",
         "type": "color"
       },
+      "default": {
+        "value": "{color.neutral.1200}",
+        "type": "color"
+      },
       "light": {
         "value": "{color.neutral.1000}",
         "type": "color"
@@ -33,7 +37,7 @@
         "value": "{color.primary.900}",
         "type": "color"
       },
-      "successs": {
+      "success": {
         "value": "{color.success.1100}",
         "type": "color"
       },
