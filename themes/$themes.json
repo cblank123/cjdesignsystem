@@ -1184,6 +1184,7 @@
     "$figmaVariableReferences": {
       "color.text.dark": "17b8f97f7907b851fbb1719a5db15d7af9368c22",
       "color.text.medium": "3defc5452935874b85ea9e8c12bad13e6414861f",
+      "color.text.default": "51b00f911af15eaf60b8b76f0d841b1c91a8bd5e",
       "color.text.light": "9e9b203e67716c6a2d650f328396f7dcdeb3786b",
       "color.text.placeholder": "a21c2e53311ae64203e29b36724f38f60dcdb6a4",
       "color.text.disabled": "1b47d2970688825e272dc21088a64dbf1d84bbf1",
@@ -1350,7 +1351,6 @@
       "color.text.tag.chartreuse.tint": "3b67250398cb28d655105c724dd7c916b1cfcaec",
       "color.text.tag.chartreuse.subtle": "6a9ebdbfa48d1ebdfa69dd07f1ae23b48e574426",
       "color.text.tag.chartreuse.light": "40431ac0afce4242276cc83fca5f377a3bb07767",
-      "color.text.default": "51b00f911af15eaf60b8b76f0d841b1c91a8bd5e",
       "color.background.primary.bold": "2cd8f572ccaff221568c490c0a3cf2271e4e20ee",
       "color.background.primary.subtle": "ff242cd4e867449fdca5ed1c790f8f2a3392b891",
       "color.background.success.bold": "d2b0d885a02edba15e727e1ac3c58b4ddb7fc8f3",
