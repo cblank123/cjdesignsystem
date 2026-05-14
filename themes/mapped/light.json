@@ -923,11 +923,11 @@
               "type": "color"
             },
             "hover": {
-              "value": "{color.primary.200}",
+              "value": "{color.primary.300}",
               "type": "color"
             },
             "active": {
-              "value": "{color.primary.300}",
+              "value": "{color.primary.400}",
               "type": "color"
             },
             "loading": {
@@ -1013,11 +1013,11 @@
               "type": "color"
             },
             "hover": {
-              "value": "{color.danger.200}",
+              "value": "{color.danger.300}",
               "type": "color"
             },
             "active": {
-              "value": "{color.danger.300}",
+              "value": "{color.danger.400}",
               "type": "color"
             },
             "loading": {
@@ -1125,11 +1125,11 @@
               "type": "color"
             },
             "hover": {
-              "value": "{color.neutral.200}",
+              "value": "{color.neutral.300}",
               "type": "color"
             },
             "active": {
-              "value": "{color.neutral.300}",
+              "value": "{color.neutral.400}",
               "type": "color"
             },
             "loading": {
