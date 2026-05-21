@@ -1279,6 +1279,10 @@
     "rounded": {
       "value": "800",
       "type": "number"
+    },
+    "default": {
+      "value": "{radius.50}",
+      "type": "number"
     }
   },
   "body": {
