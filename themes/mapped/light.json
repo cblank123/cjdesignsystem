@@ -807,7 +807,7 @@
       },
       "information": {
         "bold": {
-          "value": "{color.information.1000}",
+          "value": "{color.information.1100}",
           "type": "color"
         },
         "subtle": {
