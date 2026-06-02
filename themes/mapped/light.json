@@ -2732,11 +2732,11 @@
             "type": "color"
           },
           "subtle": {
-            "value": "{color.lime.1100}",
+            "value": "{color.lime.1200}",
             "type": "color"
           },
           "light": {
-            "value": "{color.lime.1100}",
+            "value": "{color.lime.1200}",
             "type": "color"
           }
         },
