@@ -2998,15 +2998,15 @@
             "type": "color"
           },
           "tint": {
-            "value": "{color.chartreuse.1200}",
+            "value": "{color.chartreuse.1300}",
             "type": "color"
           },
           "subtle": {
-            "value": "{color.chartreuse.1200}",
+            "value": "{color.chartreuse.1300}",
             "type": "color"
           },
           "light": {
-            "value": "{color.chartreuse.1200}",
+            "value": "{color.chartreuse.1300}",
             "type": "color"
           }
         }
