@@ -2394,7 +2394,7 @@
         "type": "color"
       },
       "warning": {
-        "value": "{color.warning.800}",
+        "value": "{color.warning.900}",
         "type": "color"
       },
       "warning-inverse": {
