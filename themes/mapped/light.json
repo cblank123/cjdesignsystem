@@ -159,20 +159,6 @@
           "type": "color"
         }
       },
-      "segment-control": {
-        "active": {
-          "value": "{color.base.white}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{color.blue.1000}",
-          "type": "color"
-        },
-        "default": {
-          "value": "{color.primary.900}",
-          "type": "color"
-        }
-      },
       "button": {
         "brand": {
           "secondary": {
@@ -853,20 +839,6 @@
           "type": "color"
         },
         "active": {
-          "value": "{color.base.white}",
-          "type": "color"
-        }
-      },
-      "segment-control": {
-        "active": {
-          "value": "{color.primary.900}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{color.blue.200}",
-          "type": "color"
-        },
-        "default": {
           "value": "{color.base.white}",
           "type": "color"
         }
@@ -1738,20 +1710,6 @@
         },
         "active": {
           "value": "{color.neutral.600}",
-          "type": "color"
-        }
-      },
-      "segment-control": {
-        "active": {
-          "value": "{color.primary.900}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{color.primary.900}",
-          "type": "color"
-        },
-        "default": {
-          "value": "#00000000",
           "type": "color"
         }
       },
